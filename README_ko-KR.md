@@ -1,24 +1,22 @@
-<div style="user-select:none;">
-
-## 안녕하세요! <strong>JularDepick</strong> 입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"/>
+# 안녕하세요! <strong>JularDepick</strong> 입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"/>&nbsp;<img src="Organizations/Favicon/JularDepick.jpg" style="width:25px;border-radius:10%;"/>
 
 <div align="center">
-<details><summary style="list-style:none;">🌎 언어를 선택하세요 🌏</summary>
+<details><summary><font style="font-size:var(--h5-size,15px);"><strong>🌎 언어를 선택하세요 🌏</strong></font></summary><br>
 
-[[English]](README.md)
-[[简体中文]](README_zh-CN.md)
-[[Français]](README_fr-FR.md)
-[[日本語]](README_ja-JP.md)
-[[한국어]](README_ko-KR.md)
+[**[简体中文]**](README.md)
+[**[English]**](README_en-US.md)
+[**[Français]**](README_fr-FR.md)
+[**[日本語]**](README_ja-JP.md)
+[**[한국어]**](README_ko-KR.md)
 
 </details>
 </div>
 
 ---
 
-### 저에 대해 👻
+## 저에 대해 👻
 
-<details><summary style="list-style:none;"> 📚 <u>여러 분야</u>에 손대는<strong>취미인</strong></summary>
+<details><summary> 📚 <u>여러 분야</u>에 손대는<strong>취미인</strong></summary>
 <ul>
   <li>👉 뭐든지 배우고 싶다 👈</li>
   <li>👉 뭐든지 조금씩 할 줄 안다 👈</li>
@@ -27,7 +25,7 @@
 </ul>
 </details>
 
-<details><summary style="list-style:none;">🎓 평범한<u>소프트웨어 공학</u><strong>학부생</strong></summary>
+<details><summary>🎓 평범한<u>소프트웨어 공학</u><strong>학부생</strong></summary>
 <ul>
   <li>前途가 캄캄하게 느껴진다 👆</li>
   <li>매일 수업을 빠지고 잠만 잔다 😴</li>
@@ -36,7 +34,7 @@
 </ul>
 </details>
 
-<details><summary style="list-style:none;">👨‍💻 아침부터 밤까지<u>코드</u>를 짜는<strong>코더</strong></summary>
+<details><summary>👨‍💻 아침부터 밤까지<u>코드</u>를 짜는<strong>코더</strong></summary>
 <ul>
   <li>항상 손수 바퀴를 다시 발명하려 한다 😄</li>
   <li>GitHub에서 쓰레기를 대량 생산한다 💩</li>
@@ -45,7 +43,7 @@
 </ul>
 </details>
 
-<details><summary style="list-style:none;">🤖 <u>에이전트</u>를 다루는<strong>YES 엔지니어</strong></summary>
+<details><summary>🤖 <u>에이전트</u>를 다루는<strong>YES 엔지니어</strong></summary>
 <ul>
   <li>DeepSeek, 왜 이렇게 바보야 🤪</li>
   <li>OpenCode가 또 UI를 망가뜨렸다 😰</li>
@@ -56,30 +54,47 @@
 
 ---
 
-### 소속 조직과 팀 🏢
+## 소속 조직과 팀 🏢
+
+<details><summary>&nbsp;<img src="Organizations/Favicon/Uxiyu-Team.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Uxiyu-Team</strong></summary>
+<p>오프라인 지인들의 작은 geek 서클이지만, 당분간은 이렇다 할 사업이 없습니다.</p>
+</details>
+
+<details><summary>&nbsp;<img src="Organizations/Favicon/Maix-Agent.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Maix-Agent</strong></summary>
+<p>여기서 인공지능과 에이전트 도구를 다루고 있습니다.</p>
+</details>
 
 ---
 
-### 저장소와 프로젝트 💩
+## 저장소와 프로젝트 💩
+
+<details><summary><strong>T</strong></summary>
+<p>P</p>
+</details>
+
+<details><summary><strong>T</strong></summary>
+<p>P</p>
+</details>
 
 ---
 
-### 선호하는 라이선스 📄
+## 선호하는 라이선스 📄
 
 [![](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE/MIT)
 [![](https://img.shields.io/badge/License-Apache--2.0-orange)](./LICENSE/Apache-2.0)
-[![](https://img.shields.io/badge/License-AGPL--3.0-red)](./LICENSE/AGPL-3.0)
+[![](https://img.shields.io/badge/License-AGPL--3.0-red)](./LICENSE/AGPL-3.0-or-later)
 
 ---
 
-### 사용 중인 모델과 에이전트 도구 👾
+## 사용 중인 모델과 에이전트 도구 👾
 
-</div>
+[![](https://img.shields.io/badge/DeepSeek-0ad)](https://platform.deepseek.com)
+[![](https://img.shields.io/badge/XiaomiMiMo-grey)](https://platform.xiaomimimo.com)
+
+[![](https://img.shields.io/badge/Reasonix-0ad)]()
+[![](https://img.shields.io/badge/ClaudeCode-orange)](https://claude.com)
+[![](https://img.shields.io/badge/OpenCode-333)](https://opencode.ai)
 
 ---
 
 > 제 홈페이지가 바보 같아 보이나요? 네, <s>일부러</s> 그래요 🤔
-
-> 위의 텍스트를 선택할 수 없다면, `<div style="user-select:none;">...</div>`로 설정한 `user-select:none` 속성이 적용된 것입니다 😁
-
-> 나만의 홈페이지를 갖고 싶나요? 에이전트에 [<u>이 SKILL</u>](https://github.com/JularDepick/GitHub-Profile-README.SKILL/)을 설치하면 됩니다 🤠
