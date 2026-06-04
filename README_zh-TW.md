@@ -1,7 +1,7 @@
-# Salut ! Je suis <strong>JularDepick</strong> ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:25px;border-radius:10%;" loading="lazy"/>
+# 嗨！我是 <strong>JularDepick</strong> ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:25px;border-radius:10%;" loading="lazy"/>
 
 <div align="center">
-<details><summary><font style="font-size:var(--h5-size,25px);"><strong>🌎 Cliquez pour choisir votre langue 🌏</strong></font></summary><br>
+<details><summary><font style="font-size:var(--h5-size,25px);"><strong>🌎 點擊選擇你的語言 🌏</strong></font></summary><br>
 
 [**[简体中文]**](README.md)
 [**[繁體中文]**](README_zh-TW.md)
@@ -15,7 +15,7 @@
 
 
 
-## Stack technique 🖥️
+## 技術棧 🖥️
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -26,7 +26,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-> Ce que j'apprends :
+> 我正在學習的：
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -43,94 +43,94 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-> Vous voulez voir mon parcours d'apprentissage de la stack technique ? [Cliquez ici pour les détails](TechStack/README_fr-FR.md)
+> 想要參考我的技術棧學習路線？[點擊這裡去查看詳細資訊](TechStack/README_zh-TW.md)
 
 
 
-## Qui je suis 👻
+## 我的身份 👻
 
-<details><summary> 📚 Un <strong>passionné</strong> qui s'intéresse à <u>de nombreux domaines</u></summary>
+<details><summary> 📚 一名涉獵<u>多個領域</u>的<strong>愛好者</strong></summary>
 <ul>
-  <li>👉 Veut tout apprendre 👈</li>
-  <li>👉 Sait un peu de tout 👈</li>
-  <li>👉 Ne maîtrise rien 👈</li>
-  <li>👉 🤡C'est moi🤡 👈</li>
+  <li>👉 啥都想學 👈</li>
+  <li>👉 啥都會點 👈</li>
+  <li>👉 啥都不精 👈</li>
+  <li>👉 🤡我🤡 👈</li>
 </ul>
 </details>
 
-<details><summary>🎓 Un <u>étudiant en génie logiciel</u> <strong>ordinaire</strong></summary>
+<details><summary>🎓 一名普通的<u>軟體工程</u><strong>本科生</strong></summary>
 <ul>
-  <li>L'avenir semble bien sombre 👆</li>
-  <li>Sécher les cours et dormir tous les jours 😴</li>
-  <li>Réfléchir parfois à mon avenir professionnel 🤔</li>
-  <li>Espérer désespérément qu'une grande entreprise me recrute 👇</li>
+  <li>感覺前途一片黑暗 👆</li>
+  <li>每天都在逃課睡覺 😴</li>
+  <li>偶爾思考職業路線 🤔</li>
+  <li>狂想能有大廠撈我 👇</li>
 </ul>
 </details>
 
-<details><summary>👨‍💻 Un <strong>codeur</strong> qui programme du matin au soir <u>en écrivant du code</u></summary>
+<details><summary>👨‍💻 一名起早貪黑<u>打程式碼</u>的<strong>碼農</strong></summary>
 <ul>
-  <li>Aime toujours réinventer la roue à la main 😄</li>
-  <li>Produit des projets en masse sur GitHub 💩</li>
-  <li>Se jette sur le code dès l'ouverture des yeux 😳</li>
-  <li>N'arrive à rien apprendre sauf le C++ 😭</li>
+  <li>老是喜歡手搓造輪子 😄</li>
+  <li>在GitHub瘋狂造垃圾 💩</li>
+  <li>兩眼一睜就大戰程式碼 😳</li>
+  <li>除了C++啥也學不會 😭</li>
 </ul>
 </details>
 
-<details><summary>🤖 Un <strong>ingénieur YES</strong> qui bricole avec les <u>Agents</u></summary>
+<details><summary>🤖 一名鼓搗<u>Agent</u>的<strong>YES工程師</strong></summary>
 <ul>
-  <li>DeepSeek, pourquoi es-tu si bête 🤪</li>
-  <li>OpenCode a encore cassé l'interface 😰</li>
-  <li>Claude a optimisé l'optimisation jusqu'à la casser 😖</li>
-  <li>Je t'avais dit de ne pas toucher à mon Git ! 😡</li>
+  <li>DeepSeek你怎麼這麼蠢 🤪</li>
+  <li>OpenCode又把UI搞壞了 😰</li>
+  <li>Claude又把優化給優化了 😖</li>
+  <li>都說了你別碰我的Git啊！ 😡</li>
 </ul>
 </details>
 
 
 
-## Mes organisations et équipes 🏢
+## 我的團隊和組織 🏢
 
 <details><summary>&nbsp;<img src="Organizations/Favicon/Uxiyu-Team.jpg" style="width:15px;border-radius:20%;" loading="lazy"/>&nbsp;<strong>Uxiyu-Team</strong></summary>
-<p>Un petit cercle de geeks amis en ligne, mais nous n'avons pas encore de activités pour le moment.</p>
+<p>一個線下熟人極客小圈子，不過我們暫時沒有什麼業務。</p>
 </details>
 
 <details><summary>&nbsp;<img src="Organizations/Favicon/Maix-Agent.jpg" style="width:15px;border-radius:20%;" loading="lazy"/>&nbsp;<strong>Maix-Agent</strong></summary>
-<p>Je bricole ici avec l'intelligence artificielle et les outils d'Agent.</p>
+<p>我在這裡鼓搗人工智慧和Agent工具。</p>
 </details>
 
 
 
-## Mes dépôts et projets 💩
+## 我的倉庫和專案 💩
 
 <details><summary><strong>Agent Skills</strong></summary>
 
-- [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) Organiser automatiquement les propos des utilisateurs et maintenir une bibliothèque d'idées persistante et liée au projet pour les Agents
-- [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) Analyse approfondie des journaux de discussion, génération de rapports structurés et rendu en pages HTML navigables
+- [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) 讓Agent自動組織使用者發言，維護持久化、綁定專案的想法文件庫
+- [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) 深度分析聊天紀錄，輸出結構化報告，渲染為可瀏覽的 HTML 頁面
 
 </details>
 
 <details><summary><strong>Apps&Games</strong></summary>
 
-- [[Gyroown]](https://github.com/JularDepick/Gyroown) Un dépôt chiffré dynamique entièrement hors ligne
-- [[Maix-Agent]](https://github.com/JularDepick/Maix-Agent) Une implémentation d'IA-Agent avec de puissantes capacités de mémoire et un support programmable, mêlant多种架构和组件 d'IA
-- [[WhatA-Form]](https://github.com/JularDepick/WhatA-Form) Un jeu en monde libre avec l'agriculture comme principal gameplay
+- [[Gyroown]](https://github.com/JularDepick/Gyroown) 完全離線的動態加密倉庫
+- [[Maix-Agent]](https://github.com/JularDepick/Maix-Agent) 一個混合了多種人工智慧架構和元件的、具有強大記憶能力的、支援程式化的AI-Agent實作
+- [[WhatA-Form]](https://github.com/JularDepick/WhatA-Form) 一個以農場種植為主要玩法的自由世界遊戲
 
 </details>
 
 <details><summary><strong>Resources</strong></summary>
 
-- [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) Kit d'installation de l'éditeur Dev-Cpp-5.11 avec le compilateur TDM-GCC-10.3.0. Fournit un kit d'installation avec configuration prédéfinie et un kit d'installation original.
+- [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) 攜帶TDM-GCC-10.3.0編譯器的Dev-Cpp-5.11編輯器安裝包。提供預設設定安裝包和原版安裝包。
 
 </details>
 
 <details><summary><strong>Website Pages</strong></summary>
 
-- [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) Simulateur de la harpe Windsong Lyre de Genshin Impact
+- [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 原神樂器風物之詩琴模擬器
 
 </details>
 
 
 
-## Mes licences préférées 📄
+## 我偏好的授權條款 📄
 
 [![MIT](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE/MIT)
 [![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-orange)](./LICENSE/Apache-2.0)
@@ -138,7 +138,7 @@
 
 
 
-## Modèles et outils d'Agent que j'utilise 👾
+## 我正在使用的模型和Agent工具 👾
 
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-07f?style=flat&logo=deepseek&logoColor=white)](https://platform.deepseek.com)
 [![XiaomiMiMo](https://img.shields.io/badge/XiaomiMiMo-grey?style=flat&logo=xiaomi&logoColor=white)](https://platform.xiaomimimo.com)
@@ -149,13 +149,14 @@
 
 
 
-## Me sponsoriser
 
-<details><summary>WeChat Pay (Chine continentale)</summary>
+## 贊助我
+
+<details><summary>微信支付（中國大陸）</summary>
 <img src="Resource/image/rewardQR.png" height="120px" loading="lazy"/>
 <img src="Resource/image/wechatpayQR.png" height="120px" loading="lazy"/>
 </details>
 
 
 
-> Ma page d'accueil a l'air stupide ? Haha, c'est <s>volontaire</s> 🤔
+> 我的主頁是不是看起來很蠢？哈哈，我是 <s>故意</s> 這樣的 🤔
