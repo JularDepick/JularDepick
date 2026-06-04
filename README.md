@@ -1,7 +1,6 @@
 # 嗨！我是 <strong>JularDepick</strong> ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
 
 <div align="center">
-<details><summary><strong>🌎 点击选择你的语言 🌏</strong></summary><br>
 
 [**[简体中文]**](README.md)
 [**[繁體中文]**](README_zh-TW.md)
@@ -10,7 +9,6 @@
 [**[日本語]**](README_ja-JP.md)
 [**[한국어]**](README_ko-KR.md)
 
-</details>
 </div>
 
 
