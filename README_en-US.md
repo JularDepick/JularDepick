@@ -156,7 +156,7 @@
 <img src="Resource/image/rewardQR.png" height="400px"/>
 <img src="Resource/image/wechatpayQR.png" height="400px"/>
 </details></li>
-<li><a href="https://paypal.me/JularDepick"><strong>PayPal (Overseas)</strong></a>
+<li><a href="https://paypal.me/JularDepick" target="_blank"><strong>PayPal (Overseas)</strong></a>
 </li>
 </ul>
 
