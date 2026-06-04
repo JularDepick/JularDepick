@@ -1,7 +1,7 @@
-# 嗨！我是 <strong>JularDepick</strong> ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:25px;border-radius:10%;" loading="lazy"/>
+# 嗨！我是 <strong>JularDepick</strong> ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
 
 <div align="center">
-<details><summary><font style="font-size:var(--h5-size,25px);"><strong>🌎 点击选择你的语言 🌏</strong></font></summary><br>
+<details><summary><strong>🌎 点击选择你的语言 🌏</strong></summary><br>
 
 [**[简体中文]**](README.md)
 [**[繁體中文]**](README_zh-TW.md)
@@ -89,11 +89,11 @@
 
 ## 我的团队和组织 🏢
 
-<details><summary>&nbsp;<img src="Organizations/Favicon/Uxiyu-Team.jpg" style="width:15px;border-radius:20%;" loading="lazy"/>&nbsp;<strong>Uxiyu-Team</strong></summary>
+<details><summary>&nbsp;<img src="Organizations/Favicon/Uxiyu-Team.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Uxiyu-Team</strong></summary>
 <p>一个线下熟人极客小圈子，不过我们暂时没有什么业务。</p>
 </details>
 
-<details><summary>&nbsp;<img src="Organizations/Favicon/Maix-Agent.jpg" style="width:15px;border-radius:20%;" loading="lazy"/>&nbsp;<strong>Maix-Agent</strong></summary>
+<details><summary>&nbsp;<img src="Organizations/Favicon/Maix-Agent.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Maix-Agent</strong></summary>
 <p>我在这里鼓捣人工智能和Agent工具。</p>
 </details>
 
@@ -152,8 +152,8 @@
 ## 赞助我
 
 <details><summary>微信支付(中国大陆)</summary>
-<img src="Resource/image/rewardQR.png" height="120px" loading="lazy"/>
-<img src="Resource/image/wechatpayQR.png" height="120px" loading="lazy"/>
+<img src="Resource/image/rewardQR.png" height="400px"/>
+<img src="Resource/image/wechatpayQR.png" height="400px"/>
 </details>
 
 

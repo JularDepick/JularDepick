@@ -1,7 +1,7 @@
-# 안녕하세요! <strong>JularDepick</strong> 입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:25px;border-radius:10%;" loading="lazy"/>
+# 안녕하세요! <strong>JularDepick</strong> 입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
 
 <div align="center">
-<details><summary><font style="font-size:var(--h5-size,25px);"><strong>🌎 언어를 선택하세요 🌏</strong></font></summary><br>
+<details><summary><strong>🌎 언어를 선택하세요 🌏</strong></summary><br>
 
 [**[简体中文]**](README.md)
 [**[繁體中文]**](README_zh-TW.md)
@@ -89,11 +89,11 @@
 
 ## 소속 조직과 팀 🏢
 
-<details><summary>&nbsp;<img src="Organizations/Favicon/Uxiyu-Team.jpg" style="width:15px;border-radius:20%;" loading="lazy"/>&nbsp;<strong>Uxiyu-Team</strong></summary>
+<details><summary>&nbsp;<img src="Organizations/Favicon/Uxiyu-Team.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Uxiyu-Team</strong></summary>
 <p>오프라인 지인들의 작은 geek 서클이지만, 당분간은 이렇다 할 사업이 없습니다.</p>
 </details>
 
-<details><summary>&nbsp;<img src="Organizations/Favicon/Maix-Agent.jpg" style="width:15px;border-radius:20%;" loading="lazy"/>&nbsp;<strong>Maix-Agent</strong></summary>
+<details><summary>&nbsp;<img src="Organizations/Favicon/Maix-Agent.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Maix-Agent</strong></summary>
 <p>여기서 인공지능과 에이전트 도구를 다루고 있습니다.</p>
 </details>
 
@@ -151,8 +151,8 @@
 ## 후원하기
 
 <details><summary>위챗페이（중국 본토）</summary>
-<img src="Resource/image/rewardQR.png" height="120px" loading="lazy"/>
-<img src="Resource/image/wechatpayQR.png" height="120px" loading="lazy"/>
+<img src="Resource/image/rewardQR.png" height="400px"/>
+<img src="Resource/image/wechatpayQR.png" height="400px"/>
 </details>
 
 

@@ -1,7 +1,7 @@
 # 技術スタック紹介
 
 <div align="center">
-<details><summary><font style="font-size:var(--h5-size,25px);"><strong>🌎 クリックして言語を選択 🌏</strong></font></summary><br>
+<details><summary><strong>🌎 クリックして言語を選択 🌏</strong></summary><br>
 
 [**[简体中文]**](README.md)
 [**[繁體中文]**](README_zh-TW.md)

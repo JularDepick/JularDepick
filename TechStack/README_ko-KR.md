@@ -1,7 +1,7 @@
 # 기술 스택 소개
 
 <div align="center">
-<details><summary><font style="font-size:var(--h5-size,25px);"><strong>🌎 언어 선택하기 🌏</strong></font></summary><br>
+<details><summary><strong>🌎 언어 선택하기 🌏</strong></summary><br>
 
 [**[简体中文]**](README.md)
 [**[繁體中文]**](README_zh-TW.md)

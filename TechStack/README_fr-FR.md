@@ -1,7 +1,7 @@
 # Présentation de la stack technique
 
 <div align="center">
-<details><summary><font style="font-size:var(--h5-size,25px);"><strong>🌎 Cliquez pour choisir votre langue 🌏</strong></font></summary><br>
+<details><summary><strong>🌎 Cliquez pour choisir votre langue 🌏</strong></summary><br>
 
 [**[简体中文]**](README.md)
 [**[繁體中文]**](README_zh-TW.md)
