@@ -118,16 +118,24 @@
 
 <details><summary><strong>Resources</strong></summary>
 
-- [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) 携带TDM-GCC-10.3.0编译器的Dev-Cpp-5.11编辑器安装包。提供预设配置安装包和原版安装包。
+- [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) 携带TDM-GCC-10.3.0编译器的Dev-Cpp-5.11编辑器安装包。提供预设配置安装包和原版安装包
 
 </details>
 
 <details><summary><strong>Website Pages</strong></summary>
 
+- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 个人GithubPages项目，主要存放文档、演示、教程
+- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) 基于Vue3的Ollama客户端WebUI，提供浏览器端的对话交互界面
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 原神乐器风物之诗琴模拟器
 
 </details>
 
+<details><summary><strong>Gadgets</strong></summary>
+
+- [[UAV_MAS]](https://github.com/JularDepick/UAV_MAS) 我高中时为比赛制作的一个与无人机相关的C++程序
+- [[LoveHeartCreator]](https://github.com/JularDepick/LoveHeartCreator) 基于笛卡尔心形曲线的变形，在控制台上显示心形图案
+
+</details>
 
 
 ## 我偏好的许可证 📄

@@ -111,7 +111,7 @@
 <details><summary><strong>Apps&Games</strong></summary>
 
 - [[Gyroown]](https://github.com/JularDepick/Gyroown) Un dépôt chiffré dynamique entièrement hors ligne
-- [[Maix-Agent]](https://github.com/JularDepick/Maix-Agent) Une implémentation d'IA-Agent avec de puissantes capacités de mémoire et un support programmable, mêlant多种架构和组件 d'IA
+- [[Maix-Agent]](https://github.com/JularDepick/Maix-Agent) Une implémentation d'IA-Agent avec de puissantes capacités de mémoire et un support programmable, mêlant plusieurs architectures et composants d'IA
 - [[WhatA-Form]](https://github.com/JularDepick/WhatA-Form) Un jeu en monde libre avec l'agriculture comme principal gameplay
 
 </details>
@@ -124,7 +124,16 @@
 
 <details><summary><strong>Website Pages</strong></summary>
 
+- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) Projet personnel GithubPages, principalement pour la documentation, les démos et les tutoriels
+- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Client WebUI pour Ollama basé sur Vue3, fournissant une interface de discussion dans le navigateur
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) Simulateur de la harpe Windsong Lyre de Genshin Impact
+
+</details>
+
+<details><summary><strong>Gadgets</strong></summary>
+
+- [[UAV_MAS]](https://github.com/JularDepick/UAV_MAS) Un programme C++ lié aux drones que j'ai réalisé pour un concours au lycée
+- [[LoveHeartCreator]](https://github.com/JularDepick/LoveHeartCreator) Affiche des motifs de cœur sur la console basés sur la déformation de la courbe cardioïde de Descartes
 
 </details>
 

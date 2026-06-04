@@ -124,7 +124,16 @@
 
 <details><summary><strong>Website Pages</strong></summary>
 
+- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) Personal GithubPages project, mainly for documentation, demos, and tutorials
+- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3-based Ollama client WebUI, providing a browser-based chat interaction interface
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) Genshin Impact instrument Windsong Lyre simulator
+
+</details>
+
+<details><summary><strong>Gadgets</strong></summary>
+
+- [[UAV_MAS]](https://github.com/JularDepick/UAV_MAS) A UAV-related C++ program I made for a competition in high school
+- [[LoveHeartCreator]](https://github.com/JularDepick/LoveHeartCreator) Display heart patterns on the console based on the deformation of the Cartesian heart curve
 
 </details>
 

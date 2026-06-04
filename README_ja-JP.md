@@ -124,7 +124,16 @@
 
 <details><summary><strong>Website Pages</strong></summary>
 
+- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 個人GithubPagesプロジェクト。主にドキュメント、デモ、チュートリアルを掲載
+- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3ベースのOllamaクライアントWebUI。ブラウザでのチャット対話インターフェースを提供
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 原神の楽器・風物の詩琴シミュレーター
+
+</details>
+
+<details><summary><strong>Gadgets</strong></summary>
+
+- [[UAV_MAS]](https://github.com/JularDepick/UAV_MAS) 高校時代のコンテスト用に制作したドローン関連のC++プログラム
+- [[LoveHeartCreator]](https://github.com/JularDepick/LoveHeartCreator) デカルト心臓曲線の変形に基づいて、コンソールにハート模様を表示する
 
 </details>
 

@@ -124,7 +124,16 @@
 
 <details><summary><strong>Website Pages</strong></summary>
 
+- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 個人GithubPages專案，主要存放文件、示範、教程
+- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) 基於Vue3的Ollama客戶端WebUI，提供瀏覽器端的對話互動介面
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 原神樂器風物之詩琴模擬器
+
+</details>
+
+<details><summary><strong>Gadgets</strong></summary>
+
+- [[UAV_MAS]](https://github.com/JularDepick/UAV_MAS) 我高中時為比賽製作的一個與無人機相關的C++程式
+- [[LoveHeartCreator]](https://github.com/JularDepick/LoveHeartCreator) 基於笛卡爾心形曲線的變形，在控制台上顯示心形圖案
 
 </details>
 

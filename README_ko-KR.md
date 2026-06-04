@@ -124,7 +124,16 @@
 
 <details><summary><strong>Website Pages</strong></summary>
 
+- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 개인 GithubPages 프로젝트. 주로 문서, 데모, 튜토리얼을 게시
+- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3 기반의 Ollama 클라이언트 WebUI. 브라우저에서 대화형 인터페이스를 제공
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 원신 임팩트 악기 물시의诗琴 시뮬레이터
+
+</details>
+
+<details><summary><strong>Gadgets</strong></summary>
+
+- [[UAV_MAS]](https://github.com/JularDepick/UAV_MAS) 고등학교 때 대회를 위해 만든 드론 관련 C++ 프로그램
+- [[LoveHeartCreator]](https://github.com/JularDepick/LoveHeartCreator) 데카르트 하트 곡선의 변형을 기반으로 콘솔에 하트 모양 패턴을 표시
 
 </details>
 
