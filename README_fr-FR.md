@@ -149,12 +149,16 @@
 
 
 
-## Me sponsoriser
+## Me sponsoriser ❤️
 
-<details><summary>WeChat Pay (Chine continentale)</summary>
+<ul>
+<li><details><summary><strong>WeChat Pay (Chine continentale)</strong></summary>
 <img src="Resource/image/rewardQR.png" height="400px"/>
 <img src="Resource/image/wechatpayQR.png" height="400px"/>
-</details>
+</details></li>
+<li><a href="https://paypal.me/JularDepick"><strong>PayPal (International)</strong></a>
+</li>
+</ul>
 
 
 

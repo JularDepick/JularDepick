@@ -149,12 +149,16 @@
 
 
 
-## 寄付のお願い
+## 寄付のお願い ❤️
 
-<details><summary>WeChat Pay（中国本土）</summary>
+<ul>
+<li><details><summary><strong>WeChat Pay（中国本土）</strong></summary>
 <img src="Resource/image/rewardQR.png" height="400px"/>
 <img src="Resource/image/wechatpayQR.png" height="400px"/>
-</details>
+</details></li>
+<li><a href="https://paypal.me/JularDepick"><strong>PayPal（海外）</strong></a>
+</li>
+</ul>
 
 
 

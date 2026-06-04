@@ -149,12 +149,16 @@
 
 
 
-## Sponsor Me
+## Sponsor Me ❤️
 
-<details><summary>WeChat Pay (Mainland China)</summary>
+<ul>
+<li><details><summary><strong>WeChat Pay (Mainland China)</strong></summary>
 <img src="Resource/image/rewardQR.png" height="400px"/>
 <img src="Resource/image/wechatpayQR.png" height="400px"/>
-</details>
+</details></li>
+<li><a href="https://paypal.me/JularDepick"><strong>PayPal (Overseas)</strong></a>
+</li>
+</ul>
 
 
 

@@ -150,12 +150,16 @@
 
 
 
-## 贊助我
+## 贊助我 ❤️
 
-<details><summary>微信支付（中國大陸）</summary>
+<ul>
+<li><details><summary><strong>微信支付（中國大陸）</strong></summary>
 <img src="Resource/image/rewardQR.png" height="400px"/>
 <img src="Resource/image/wechatpayQR.png" height="400px"/>
-</details>
+</details></li>
+<li><a href="https://paypal.me/JularDepick"><strong>PayPal（海外）</strong></a>
+</li>
+</ul>
 
 
 

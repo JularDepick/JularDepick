@@ -148,12 +148,16 @@
 [![OpenCode](https://img.shields.io/badge/OpenCode-789?style=flat&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB3aWR0aD0nMzInIGhlaWdodD0nNDAnIHZpZXdCb3g9JzAgMCAzMiA0MCcgZmlsbD0nbm9uZScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48ZyBjbGlwLXBhdGg9J3VybCgjY2xpcDBfMTMxMV85NDk2OSknPjxwYXRoIGQ9J00yNCAzMkg4VjE2SDI0VjMyWicgZmlsbD0nI0JDQkJCQicvPjxwYXRoIGQ9J00yNCA4SDhWMzJIMjRWOFpNMzIgNDBIMFYwSDMyVjQwWicgZmlsbD0nIzIxMUUxRScvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9J2NsaXAwXzEzMTFfOTQ5NjknPjxyZWN0IHdpZHRoPSczMicgaGVpZ2h0PSc0MCcgZmlsbD0nd2hpdGUnLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=&logoColor=white)](https://opencode.ai)
 
 
-## 후원하기
+## 후원하기 ❤️
 
-<details><summary>위챗페이（중국 본토）</summary>
+<ul>
+<li><details><summary><strong>위챗페이（중국 본토）</strong></summary>
 <img src="Resource/image/rewardQR.png" height="400px"/>
 <img src="Resource/image/wechatpayQR.png" height="400px"/>
-</details>
+</details></li>
+<li><a href="https://paypal.me/JularDepick"><strong>PayPal（해외）</strong></a>
+</li>
+</ul>
 
 
 
