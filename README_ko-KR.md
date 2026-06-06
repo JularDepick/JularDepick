@@ -1,4 +1,4 @@
-# 안녕하세요! <strong>JularDepick</strong> 입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
+# 안녕하세요! <strong>JularDepick</strong> 입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
 
 <div align="center">
 
@@ -9,7 +9,6 @@
 [**[日本語]**](README_ja-JP.md)
 [**[한국어]**](README_ko-KR.md)
 
-</details>
 </div>
 
 
@@ -52,14 +51,14 @@
 <ul>
   <li>👉 뭐든지 배우고 싶다 👈</li>
   <li>👉 뭐든지 조금씩 할 줄 안다 👈</li>
-  <li>👉 뭐 하나 제대로精通하지 못한다 👈</li>
+  <li>👉 뭐 하나 제대로 익히지 못한다 👈</li>
   <li>👉 🤡그게 접니다🤡 👈</li>
 </ul>
 </details>
 
 <details><summary>🎓 평범한<u>소프트웨어 공학</u><strong>학부생</strong></summary>
 <ul>
-  <li>前途가 캄캄하게 느껴진다 👆</li>
+  <li>미래가 캄캄하게 느껴진다 👆</li>
   <li>매일 수업을 빠지고 잠만 잔다 😴</li>
   <li>가끔 진로에 대해 생각한다 🤔</li>
   <li>대기업이 나를 데려가 주길 간절히 바란다 👇</li>
@@ -125,7 +124,7 @@
 
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 개인 GithubPages 프로젝트. 주로 문서, 데모, 튜토리얼을 게시
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3 기반의 Ollama 클라이언트 WebUI. 브라우저에서 대화형 인터페이스를 제공
-- [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 원신 임팩트 악기 물시의诗琴 시뮬레이터
+- [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 원신 임팩트 악기 윈드송 리라 시뮬레이터
 
 </details>
 
