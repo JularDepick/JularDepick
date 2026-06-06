@@ -1,7 +1,6 @@
 # 技術スタック紹介
 
 <div align="center">
-<details><summary><strong>🌎 クリックして言語を選択 🌏</strong></summary><br>
 
 [**[简体中文]**](README.md)
 [**[繁體中文]**](README_zh-TW.md)
@@ -10,7 +9,6 @@
 [**[日本語]**](README_ja-JP.md)
 [**[한국어]**](README_ko-KR.md)
 
-</details>
 </div>
 
 
