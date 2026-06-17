@@ -23,6 +23,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 > 我正在學習的：
 
@@ -33,7 +34,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
@@ -153,7 +153,9 @@
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-07f?style=flat&logo=deepseek&logoColor=white)](https://platform.deepseek.com)
 [![XiaomiMiMo](https://img.shields.io/badge/XiaomiMiMo-grey?style=flat&logo=xiaomi&logoColor=white)](https://platform.xiaomimimo.com)
 
-[![Reasonix](https://img.shields.io/badge/Reasonix-06e?style=flat&logo=deepseek&logoColor=white)]()
+[![Reasonix](https://img.shields.io/badge/Reasonix-06e?style=flat&logo=deepseek&logoColor=white)](https://github.com/esengine/DeepSeek-Reasonix)
+[![KunAgent](https://img.shields.io/badge/KunAgent-07f?style=flat&logo=deepseek&logoColor=white)](https://github.com/KunAgent/Kun)
+[![MiMoCode](https://img.shields.io/badge/MiMoCode-888?style=flat&logo=xiaomi&logoColor=white)](https://github.com/XiaomiMiMo/MiMo-Code)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-orange?style=flat&logo=claude&logoColor=white)](https://claude.com)
 [![OpenCode](https://img.shields.io/badge/OpenCode-789?style=flat&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB3aWR0aD0nMzInIGhlaWdodD0nNDAnIHZpZXdCb3g9JzAgMCAzMiA0MCcgZmlsbD0nbm9uZScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48ZyBjbGlwLXBhdGg9J3VybCgjY2xpcDBfMTMxMV85NDk2OSknPjxwYXRoIGQ9J00yNCAzMkg4VjE2SDI0VjMyWicgZmlsbD0nI0JDQkJCQicvPjxwYXRoIGQ9J00yNCA4SDhWMzJIMjRWOFpNMzIgNDBIMFYwSDMyVjQwWicgZmlsbD0nIzIxMUUxRScvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9J2NsaXAwXzEzMTFfOTQ5NjknPjxyZWN0IHdpZHRoPSczMicgaGVpZ2h0PSc0MCcgZmlsbD0nd2hpdGUnLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=&logoColor=white)](https://opencode.ai)
 
