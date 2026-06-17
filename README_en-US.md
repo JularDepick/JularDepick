@@ -23,6 +23,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 > What I'm learning:
 
@@ -33,7 +34,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
@@ -126,8 +126,8 @@
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) Personal GithubPages project, mainly for documentation, demos, and tutorials
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3-based Ollama client WebUI, providing a browser-based chat interaction interface
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) Genshin Impact instrument Windsong Lyre simulator
-- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) A minimalist, lightweight online media browsing platform that promotes your favorite content anonymously. Uses a lightweight PHP backend to store interaction data
-- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) A personal microblog management tool with preset templates, enabling online blog management and dynamic generation of static web pages
+- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) A minimalist, lightweight online media browsing platform that promotes your favorite content anonymously
+- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) A personal microblog management tool enabling online blog management and dynamic generation of static web pages
 
 </details>
 

@@ -23,6 +23,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 > 現在学習中のもの：
 
@@ -33,7 +34,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
@@ -126,8 +126,8 @@
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 個人GithubPagesプロジェクト。主にドキュメント、デモ、チュートリアルを掲載
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3ベースのOllamaクライアントWebUI。ブラウザでのチャット対話インターフェースを提供
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 原神の楽器・風物の詩琴シミュレーター
-- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) お気に入りのコンテンツを匿名で宣伝する、ミニマルで軽量なオンラインメディア閲覧プラットフォーム。軽量PHPバックエンドでインタラクションデータを保存
-- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) プリセットテンプレート付きの個人マイクロブログ管理ツール。ブログのオンライン管理と静的ウェブページの動的生成を実現
+- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) お気に入りのコンテンツを匿名で宣伝する、ミニマルで軽量なオンラインメディア閲覧プラットフォーム
+- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) 個人マイクロブログ管理ツール。ブログのオンライン管理と静的ウェブページの動的生成を実現
 
 </details>
 

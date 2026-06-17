@@ -23,6 +23,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 > 我正在学习的：
 
@@ -33,7 +34,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
@@ -126,8 +126,8 @@
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 个人GithubPages项目，主要存放文档、演示、教程
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) 基于Vue3的Ollama客户端WebUI，提供浏览器端的对话交互界面
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 原神乐器风物之诗琴模拟器
-- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) 一个极简、轻量的在线媒体浏览平台，以匿名方式帮你推广喜爱的内容。使用轻量级 PHP 后端存储交互数据
-- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) 一款个人微博客管理工具，配备预设的通用模板，可实现博客的在线管理以及静态网页的动态生成
+- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) 一个极简、轻量的在线媒体浏览平台，以匿名方式帮你推广喜爱的内容
+- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) 一款个人微博客管理工具，可实现博客的在线管理以及静态网页的动态生成
 
 </details>
 

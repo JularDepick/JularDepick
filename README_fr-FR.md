@@ -23,6 +23,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 > Ce que j'apprends :
 
@@ -33,7 +34,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
@@ -126,8 +126,8 @@
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) Projet personnel GithubPages, principalement pour la documentation, les démos et les tutoriels
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Client WebUI pour Ollama basé sur Vue3, fournissant une interface de discussion dans le navigateur
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) Simulateur de la harpe Windsong Lyre de Genshin Impact
-- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) Une plateforme de navigation multimédia en ligne minimaliste et légère qui promeut vos contenus préférés de manière anonyme. Utilise un backend PHP léger pour stocker les données d'interaction
-- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) Un outil de gestion de microblog personnel avec des modèles prédéfinis, permettant la gestion en ligne du blog et la génération dynamique de pages web statiques
+- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) Une plateforme de navigation multimédia en ligne minimaliste et légère qui promeut vos contenus préférés de manière anonyme
+- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) Un outil de gestion de microblog personnel permettant la gestion en ligne du blog et la génération dynamique de pages web statiques
 
 </details>
 
