@@ -101,6 +101,7 @@
 
 <details><summary><strong>Agent Skills</strong></summary>
 
+- [[AGENTS.md-Best-Practices]](https://github.com/JularDepick/AGENTS.md-Best-Practices) Mes meilleures pratiques d'utilisation des Agents
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) Organiser automatiquement les propos des utilisateurs et maintenir une bibliothèque d'idées persistante et liée au projet pour les Agents
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) Analyse approfondie des journaux de discussion, génération de rapports structurés et rendu en pages HTML navigables
 
@@ -125,6 +126,8 @@
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) Projet personnel GithubPages, principalement pour la documentation, les démos et les tutoriels
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Client WebUI pour Ollama basé sur Vue3, fournissant une interface de discussion dans le navigateur
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) Simulateur de la harpe Windsong Lyre de Genshin Impact
+- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) Une plateforme de navigation multimédia en ligne minimaliste et légère qui promeut vos contenus préférés de manière anonyme. Utilise un backend PHP léger pour stocker les données d'interaction
+- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) Un outil de gestion de microblog personnel avec des modèles prédéfinis, permettant la gestion en ligne du blog et la génération dynamique de pages web statiques
 
 </details>
 

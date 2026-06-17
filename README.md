@@ -101,6 +101,7 @@
 
 <details><summary><strong>Agent Skills</strong></summary>
 
+- [[AGENTS.md-Best-Practices]](https://github.com/JularDepick/AGENTS.md-Best-Practices) 我的Agent使用经验最佳实践
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) 让Agent自动组织用户发言，维护持久化、绑定项目的想法文档库
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) 深度分析聊天记录，输出结构化报告，渲染为可浏览的 HTML 页面
 
@@ -125,6 +126,8 @@
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 个人GithubPages项目，主要存放文档、演示、教程
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) 基于Vue3的Ollama客户端WebUI，提供浏览器端的对话交互界面
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 原神乐器风物之诗琴模拟器
+- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) 一个极简、轻量的在线媒体浏览平台，以匿名方式帮你推广喜爱的内容。使用轻量级 PHP 后端存储交互数据
+- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) 一款个人微博客管理工具，配备预设的通用模板，可实现博客的在线管理以及静态网页的动态生成
 
 </details>
 

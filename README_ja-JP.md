@@ -101,6 +101,7 @@
 
 <details><summary><strong>Agent Skills</strong></summary>
 
+- [[AGENTS.md-Best-Practices]](https://github.com/JularDepick/AGENTS.md-Best-Practices) 私のエージェント使用経験のベストプラクティス
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) ユーザーの発言を自動的に整理し、エージェント用の永続的でプロジェクトに紐づくアイデア文書ライブラリを維持する
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) チャットログの詳細分析、構造化レポートの出力、閲可能なHTMLページとしてレンダリング
 
@@ -125,6 +126,8 @@
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 個人GithubPagesプロジェクト。主にドキュメント、デモ、チュートリアルを掲載
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3ベースのOllamaクライアントWebUI。ブラウザでのチャット対話インターフェースを提供
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 原神の楽器・風物の詩琴シミュレーター
+- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) お気に入りのコンテンツを匿名で宣伝する、ミニマルで軽量なオンラインメディア閲覧プラットフォーム。軽量PHPバックエンドでインタラクションデータを保存
+- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) プリセットテンプレート付きの個人マイクロブログ管理ツール。ブログのオンライン管理と静的ウェブページの動的生成を実現
 
 </details>
 

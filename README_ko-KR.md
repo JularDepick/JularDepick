@@ -101,6 +101,7 @@
 
 <details><summary><strong>Agent Skills</strong></summary>
 
+- [[AGENTS.md-Best-Practices]](https://github.com/JularDepick/AGENTS.md-Best-Practices) 에이전트 사용 경험에 대한 나의 모범 사례
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) 에이전트를 위해 사용자 발언을 자동으로 정리하고 프로젝트에 연결된 영구 아이dea 문서 라이브러리를 유지합니다
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) 채팅 로그를 심층 분석하고, 구조화된 보고서를 출력하며, 탐색 가능한 HTML 페이지로 렌더링합니다
 
@@ -125,6 +126,8 @@
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 개인 GithubPages 프로젝트. 주로 문서, 데모, 튜토리얼을 게시
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3 기반의 Ollama 클라이언트 WebUI. 브라우저에서 대화형 인터페이스를 제공
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 원신 임팩트 악기 윈드송 리라 시뮬레이터
+- [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) 좋아하는 콘텐츠를 익명으로 홍보하는 미니멀하고 가벼운 온라인 미디어 탐색 플랫폼. 경량 PHP 백엔드로 상호작용 데이터를 저장
+- [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) 프리셋 템플릿이 포함된 개인 마이크로블로그 관리 도구. 블로그 온라인 관리 및 정적 웹페이지의 동적 생성 가능
 
 </details>
 
