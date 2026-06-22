@@ -8,6 +8,7 @@
 [**[Français]**](README_fr-FR.md)
 [**[日本語]**](README_ja-JP.md)
 [**[한국어]**](README_ko-KR.md)
+[**[Русский]**](README_ru-RU.md)
 
 </div>
 
