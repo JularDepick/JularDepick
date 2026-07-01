@@ -144,7 +144,7 @@
 
 [![MIT](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE/MIT)
 [![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-orange)](./LICENSE/Apache-2.0)
-[![AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-red)](./LICENSE/AGPL-3.0-or-later)
+[![AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-red)](./LICENSE/AGPL-3.0)
 
 
 
