@@ -10,6 +10,12 @@
 [**[한국어]**](README_ko-KR.md)
 [**[Русский]**](README_ru-RU.md)
 
+<br>
+
+[**[JularDepick's GitHub Pages]**](https://JularDepick.github.io)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text= ホームページ閲覧数"/>
+
 </div>
 
 
@@ -25,6 +31,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 > 現在学習中のもの：
 
@@ -40,7 +47,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 > 私の技術スタック学習ロードマップを見たいですか？[こちらをクリックして詳細を確認](TechStack/README_ja-JP.md)
 
@@ -113,12 +119,15 @@
 - [[Gyroown]](https://github.com/JularDepick/Gyroown) 完全オフラインの動的暗号化リポジトリ
 - [[Maix-Agent]](https://github.com/JularDepick/Maix-Agent) 複数のAIアーキテクチャとコンポーネントを融合させた、強力な記憶能力とプログラマビリティを備えたAI-Agent実装
 - [[WhatA-Form]](https://github.com/JularDepick/WhatA-Form) 農業をメインプレイとするフリーワールドゲーム
+- [[Graph-Visual]](https://github.com/JularDepick/Graph-Visual) C++ Qt6 ベースのグラフ構造可視化デモソフトウェア
+- [[Crying-Music]](https://github.com/JularDepick/Crying-Music) 主要な音楽プレーヤーを参考にした実装
 
 </details>
 
 <details><summary><strong>Resources</strong></summary>
 
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) TDM-GCC-10.3.0コンパイラを同梱したDev-Cpp-5.11エディタインストーラー。プリセット設定インストーラーとオリジナルインストーラーを提供。
+- [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) レッドストーン信号を遠隔伝送するためのMinecraft MOD
 
 </details>
 
@@ -154,25 +163,50 @@
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-07f?style=flat&logo=deepseek&logoColor=white)](https://platform.deepseek.com)
 [![XiaomiMiMo](https://img.shields.io/badge/XiaomiMiMo-grey?style=flat&logo=xiaomi&logoColor=white)](https://platform.xiaomimimo.com)
 
+[![AstrBot](https://img.shields.io/badge/AstrBot-5ebbde?style=flat&logo=chatbot&logoColor=white)](https://github.com/AstrBotDevs/AstrBot)
+[![OpenCode](https://img.shields.io/badge/OpenCode-789?style=flat&logo=opencode&logoColor=white)](https://opencode.ai)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-orange?style=flat&logo=claude&logoColor=white)](https://claude.com)
+[![CodeX](https://img.shields.io/badge/CodeX-eee?style=flat&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCIgaGVpZ2h0PSIxZW0iIHN0eWxlPSJmbGV4Om5vbmU7bGluZS1oZWlnaHQ6MSIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMWVtIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5Db2RleDwvdGl0bGU+PHBhdGggY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOC4wODYuNDU3YTYuMTA1IDYuMTA1IDAgMDEzLjA0Ni0uNDE1YzEuMzMzLjE1MyAyLjUyMS43MiAzLjU2NCAxLjdhLjExNy4xMTcgMCAwMC4xMDcuMDI5YzEuNDA4LS4zNDYgMi43NjItLjIyNCA0LjA2MS4zNjZsLjA2My4wMy4xNTQuMDc2YzEuMzU3LjcwMyAyLjMzIDEuNzcgMi45MTggMy4xOTguMjc4LjY3OS40MTggMS4zODguNDIxIDIuMTI2YTUuNjU1IDUuNjU1IDAgMDEtLjE4IDEuNjMxLjE2Ny4xNjcgMCAwMC4wNC4xNTUgNS45ODIgNS45ODIgMCAwMTEuNTc4IDIuODkxYy4zODUgMS45MDEtLjAxIDMuNjE1LTEuMTgzIDUuMTRsLS4xODIuMjJhNi4wNjMgNi4wNjMgMCAwMS0yLjkzNCAxLjg1MS4xNjIuMTYyIDAgMDAtLjEwOC4xMDJjLS4yNTUuNzM2LS41MTEgMS4zNjQtLjk4NyAxLjk5Mi0xLjE5OSAxLjU4Mi0yLjk2MiAyLjQ2Mi00Ljk0OCAyLjQ1MS0xLjU4My0uMDA4LTIuOTg2LS41ODctNC4yMS0xLjczNmEuMTQ1LjE0NSAwIDAwLS4xNC0uMDMyYy0uNTE4LjE2Ny0xLjA0LjE5MS0xLjYwNC4xODVhNS45MjQgNS45MjQgMCAwMS0yLjU5NS0uNjIyIDYuMDU4IDYuMDU4IDAgMDEtMi4xNDYtMS43ODFjLS4yMDMtLjI2OS0uNDA0LS41MjItLjU1MS0uODIxYTcuNzQgNy43NCAwIDAxLS40OTUtMS4yODMgNi4xMSA2LjExIDAgMDEtLjAxNy0zLjA2NC4xNjYuMTY2IDAgMDAuMDA4LS4wNzQuMTE1LjExNSAwIDAwLS4wMzctLjA2NCA1Ljk1OCA1Ljk1OCAwIDAxLTEuMzgtMi4yMDIgNS4xOTYgNS4xOTYgMCAwMS0uMzMzLTEuNTg5IDYuOTE1IDYuOTE1IDAgMDEuMTg4LTIuMTMyYy40NS0xLjQ4NCAxLjMwOS0yLjY0OCAyLjU3Ny0zLjQ5My4yODItLjE4OC41NS0uMzM0LjgwMi0uNDM4LjI4Ni0uMTIuNTczLS4yMi44NjEtLjMwNGEuMTI5LjEyOSAwIDAwLjA4Ny0uMDg3QTYuMDE2IDYuMDE2IDAgMDE1LjYzNSAyLjMxQzYuMzE1IDEuNDY0IDcuMTMyLjg0NiA4LjA4Ni40NTd6bS0uODA0IDcuODVhLjg0OC44NDggMCAwMC0xLjQ3My44NDJsMS42OTQgMi45NjUtMS42ODggMi44NDhhLjg0OS44NDkgMCAwMDEuNDYuODY0bDEuOTQtMy4yNzJhLjg0OS44NDkgMCAwMC4wMDctLjg1NGwtMS45NC0zLjM5M3ptNS40NDYgNi4yNGEuODQ5Ljg0OSAwIDAwMCAxLjY5NWg0Ljg0OGEuODQ5Ljg0OSAwIDAwMC0xLjY5NmgtNC44NDh6Ij48L3BhdGg+PC9zdmc+&logoColor=white)](https://github.com/openai/codex)
 [![Reasonix](https://img.shields.io/badge/Reasonix-06e?style=flat&logo=deepseek&logoColor=white)](https://github.com/esengine/DeepSeek-Reasonix)
 [![KunAgent](https://img.shields.io/badge/KunAgent-07f?style=flat&logo=deepseek&logoColor=white)](https://github.com/KunAgent/Kun)
 [![MiMoCode](https://img.shields.io/badge/MiMoCode-888?style=flat&logo=xiaomi&logoColor=white)](https://github.com/XiaomiMiMo/MiMo-Code)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-orange?style=flat&logo=claude&logoColor=white)](https://claude.com)
-[![OpenCode](https://img.shields.io/badge/OpenCode-789?style=flat&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB3aWR0aD0nMzInIGhlaWdodD0nNDAnIHZpZXdCb3g9JzAgMCAzMiA0MCcgZmlsbD0nbm9uZScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48ZyBjbGlwLXBhdGg9J3VybCgjY2xpcDBfMTMxMV85NDk2OSknPjxwYXRoIGQ9J00yNCAzMkg4VjE2SDI0VjMyWicgZmlsbD0nI0JDQkJCQicvPjxwYXRoIGQ9J00yNCA4SDhWMzJIMjRWOFpNMzIgNDBIMFYwSDMyVjQwWicgZmlsbD0nIzIxMUUxRScvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9J2NsaXAwXzEzMTFfOTQ5NjknPjxyZWN0IHdpZHRoPSczMicgaGVpZ2h0PSc0MCcgZmlsbD0nd2hpdGUnLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=&logoColor=white)](https://opencode.ai)
 
 
 
 ## 寄付のお願い ❤️
 
 <ul>
-<li><details><summary><strong>WeChat Pay（中国本土）</strong></summary>
+<li><details><summary><strong>WeChat Pay / Alipay（中国本土）</strong></summary>
 <img src="Resource/image/rewardQR.png" height="400px"/>
 <img src="Resource/image/wechatpayQR.png" height="400px"/>
+<img src="Resource/image/alipay.jpg" height="400px"/>
 </details></li>
 <li><a href="https://paypal.me/JularDepick" target="_blank"><strong>PayPal（海外）</strong></a>
+</li>
+<li><a href="https://opencollective.com/julardepick" target="_blank"><strong>OpenCollective</strong></a>
 </li>
 </ul>
 
 
 
 > マイページがバカみたいに見える？うん、<s>わざと</s>です 🤔
+
+
+
+## メモ
+
+### GitHubリポジトリのrawファイル直リンク
+
+`https://raw.githubusercontent.com/JularDepick/<Repo>/main/<path>`
+
+### GitHub API
+
+- ユーザー情報 `https://api.github.com/users/JularDepick`
+- ユーザーリポジトリ `https://api.github.com/users/JularDepick/repos`
+
+### バッジ
+
+- 閲覧数 `<img src="https://visitor-badge.laobi.icu/badge?page_id=<text>&left_text=閲覧数"/>`
+- コードサイズ `<img src="https://img.shields.io/github/languages/code-size/JularDepick/<repo>?label=コードサイズ"/>`
+- リポジトリサイズ `<img src="https://img.shields.io/github/repo-size/JularDepick/<repo>?label=リポジトリサイズ"/>`
+- リリースバージョン `<img src="https://img.shields.io/github/v/release/JularDepick/<repo>?label=リリースバージョン"/>`
