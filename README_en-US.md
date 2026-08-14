@@ -1,4 +1,4 @@
-# Hi! I'm <strong>JularDepick</strong> ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
+# Hi! I'm <strong>JularDepick</strong> ! <img src="./Resource/image/helloHand.png" width="30px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
 
 <div align="center">
 
@@ -10,13 +10,7 @@
 [**[한국어]**](README_ko-KR.md)
 [**[Русский]**](README_ru-RU.md)
 
-<br>
-
-[**[My GitHub Pages]**](https://JularDepick.github.io)
-[**[My Gravatar]**](https://gravatar.com/always488c662dea)
-[**[My NPMJS]**](https://www.npmjs.com/~julardepick)
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text=Homepage%20Views"/>
+<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick-JularDepick"/>
 
 </div>
 
@@ -195,6 +189,20 @@
 
 
 
+## Related Links
+
+<div align="center">
+
+[[My GitHub Pages]](https://JularDepick.github.io)
+[[My Gravatar]](https://gravatar.com/always488c662dea)
+[[My NPMJS]](https://www.npmjs.com/~julardepick)
+[[My CurseForge Profile]](https://curseforge.com/members/JularDepick)
+[[My Modrinth Profile]](https://modrinth.com/user/JularDepick)
+
+</div>
+
+
+
 ## Little Notes
 
 ### GitHub Raw
@@ -209,7 +217,7 @@
 
 ### Badges
 
-- Views `<img src="https://visitor-badge.laobi.icu/badge?page_id=<text>&left_text=Views"/>`
-- Code size `<img src="https://img.shields.io/github/languages/code-size/JularDepick/<repo>?label=Code size"/>`
-- Repository size `<img src="https://img.shields.io/github/repo-size/JularDepick/<repo>?label=Repository size"/>`
-- Release version `<img src="https://img.shields.io/github/v/release/JularDepick/<repo>?label=Release version"/>`
+- Views `<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick"/>`
+- Code size `<img src="https://img.shields.io/github/languages/code-size/JularDepick/<repo>?label=CodeSize"/>`
+- Repository size `<img src="https://img.shields.io/github/repo-size/JularDepick/<repo>?label=RepoSize"/>`
+- Release version `<img src="https://img.shields.io/github/v/release/JularDepick/<repo>?label=Version"/>`

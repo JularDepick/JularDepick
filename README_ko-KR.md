@@ -1,4 +1,4 @@
-# 안녕하세요! <strong>JularDepick</strong> 입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Waving Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
+# 안녕하세요! <strong>JularDepick</strong> 입니다! <img src="./Resource/image/helloHand.png" width="30px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
 
 <div align="center">
 
@@ -10,13 +10,7 @@
 [**[한국어]**](README_ko-KR.md)
 [**[Русский]**](README_ru-RU.md)
 
-<br>
-
-[**[내 GitHub Pages]**](https://JularDepick.github.io)
-[**[내 Gravatar]**](https://gravatar.com/always488c662dea)
-[**[내 NPMJS]**](https://www.npmjs.com/~julardepick)
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text= 홈페이지 조회수"/>
+<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick-JularDepick"/>
 
 </div>
 
@@ -194,6 +188,20 @@
 
 
 
+## 관련 링크
+
+<div align="center">
+
+[[내 GitHub Pages]](https://JularDepick.github.io)
+[[내 Gravatar]](https://gravatar.com/always488c662dea)
+[[내 NPMJS]](https://www.npmjs.com/~julardepick)
+[[내 CurseForge 프로필]](https://curseforge.com/members/JularDepick)
+[[내 Modrinth 프로필]](https://modrinth.com/user/JularDepick)
+
+</div>
+
+
+
 ## 작은 메모
 
 ### GitHub Raw
@@ -208,7 +216,7 @@
 
 ### 뱃지
 
-- 조회수 `<img src="https://visitor-badge.laobi.icu/badge?page_id=<text>&left_text=조회수"/>`
-- 코드크기 `<img src="https://img.shields.io/github/languages/code-size/JularDepick/<repo>?label=코드크기"/>`
-- 저장소크기 `<img src="https://img.shields.io/github/repo-size/JularDepick/<repo>?label=저장소크기"/>`
-- 릴리스버전 `<img src="https://img.shields.io/github/v/release/JularDepick/<repo>?label=릴리스버전"/>`
+- 조회수 `<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick"/>`
+- 코드크기 `<img src="https://img.shields.io/github/languages/code-size/JularDepick/<repo>?label=CodeSize"/>`
+- 저장소크기 `<img src="https://img.shields.io/github/repo-size/JularDepick/<repo>?label=RepoSize"/>`
+- 릴리스버전 `<img src="https://img.shields.io/github/v/release/JularDepick/<repo>?label=Version"/>`

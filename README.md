@@ -1,4 +1,4 @@
-# 嗨！我是 <strong>JularDepick</strong> ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Waving Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
+# 嗨！我是 <strong>JularDepick</strong> ! <img src="./Resource/image/helloHand.png" width="30px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
 
 <div align="center">
 
@@ -10,13 +10,7 @@
 [**[한국어]**](README_ko-KR.md)
 [**[Русский]**](README_ru-RU.md)
 
-<br>
-
-[**[My GitHub Pages]**](https://JularDepick.github.io)
-[**[My Gravatar]**](https://gravatar.com/always488c662dea)
-[**[My NPMJS]**](https://www.npmjs.com/~julardepick)
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text= 主 页 浏 览 量"/>
+<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick-JularDepick"/>
 
 </div>
 
@@ -194,6 +188,20 @@
 
 
 
+## 关联链接
+
+<div align="center">
+
+[[My GitHub Pages]](https://JularDepick.github.io)
+[[My Gravatar]](https://gravatar.com/always488c662dea)
+[[My NPMJS]](https://www.npmjs.com/~julardepick)
+[[My CurseForge Profile]](https://curseforge.com/members/JularDepick)
+[[My Modrinth Profile]](https://modrinth.com/user/JularDepick)
+
+</div>
+
+
+
 ## 小笔记
 
 ### GitHub Raw
@@ -208,7 +216,7 @@
 
 ### 徽章
 
-- 浏览量 `<img src="https://visitor-badge.laobi.icu/badge?page_id=<text>&left_text= 浏 览 量"/>`
-- 仓库代码量 `<img src="https://img.shields.io/github/languages/code-size/JularDepick/<repo>?label=代码量"/>`
-- 仓库大小 `<img src="https://img.shields.io/github/repo-size/JularDepick/<repo>?label=仓库大小"/>`
-- 发布版本 `<img src="https://img.shields.io/github/v/release/JularDepick/<repo>?label=发布版本"/>`
+- 浏览量 `<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick"/>`
+- 仓库代码量 `<img src="https://img.shields.io/github/languages/code-size/JularDepick/<repo>?label=CodeSize"/>`
+- 仓库大小 `<img src="https://img.shields.io/github/repo-size/JularDepick/<repo>?label=RepoSize"/>`
+- 发行版本 `<img src="https://img.shields.io/github/v/release/JularDepick/<repo>?label=Version"/>`

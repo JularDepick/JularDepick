@@ -1,4 +1,4 @@
-# こんにちは！<strong>JularDepick</strong> です！ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Waving Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
+# こんにちは！<strong>JularDepick</strong> です！ <img src="./Resource/image/helloHand.png" width="30px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
 
 <div align="center">
 
@@ -10,13 +10,7 @@
 [**[한국어]**](README_ko-KR.md)
 [**[Русский]**](README_ru-RU.md)
 
-<br>
-
-[**[私の GitHub Pages]**](https://JularDepick.github.io)
-[**[私の Gravatar]**](https://gravatar.com/always488c662dea)
-[**[私の NPMJS]**](https://www.npmjs.com/~julardepick)
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text= ホームページ閲覧数"/>
+<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick-JularDepick"/>
 
 </div>
 
@@ -195,6 +189,20 @@
 
 
 
+## 関連リンク
+
+<div align="center">
+
+[[私の GitHub Pages]](https://JularDepick.github.io)
+[[私の Gravatar]](https://gravatar.com/always488c662dea)
+[[私の NPMJS]](https://www.npmjs.com/~julardepick)
+[[私の CurseForge プロフィール]](https://curseforge.com/members/JularDepick)
+[[私の Modrinth プロフィール]](https://modrinth.com/user/JularDepick)
+
+</div>
+
+
+
 ## メモ
 
 ### GitHub Raw
@@ -209,7 +217,7 @@
 
 ### バッジ
 
-- 閲覧数 `<img src="https://visitor-badge.laobi.icu/badge?page_id=<text>&left_text=閲覧数"/>`
-- コードサイズ `<img src="https://img.shields.io/github/languages/code-size/JularDepick/<repo>?label=コードサイズ"/>`
-- リポジトリサイズ `<img src="https://img.shields.io/github/repo-size/JularDepick/<repo>?label=リポジトリサイズ"/>`
-- リリースバージョン `<img src="https://img.shields.io/github/v/release/JularDepick/<repo>?label=リリースバージョン"/>`
+- 閲覧数 `<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick"/>`
+- コードサイズ `<img src="https://img.shields.io/github/languages/code-size/JularDepick/<repo>?label=CodeSize"/>`
+- リポジトリサイズ `<img src="https://img.shields.io/github/repo-size/JularDepick/<repo>?label=RepoSize"/>`
+- リリースバージョン `<img src="https://img.shields.io/github/v/release/JularDepick/<repo>?label=Version"/>`
