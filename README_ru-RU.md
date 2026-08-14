@@ -12,9 +12,11 @@
 
 <br>
 
-[**[JularDepick's GitHub Pages]**](https://JularDepick.github.io)
+[**[Мои GitHub Pages]**](https://JularDepick.github.io)
+[**[Мой Gravatar]**](https://gravatar.com/always488c662dea)
+[**[Мой NPMJS]**](https://www.npmjs.com/~julardepick)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text= Просмотры главной страницы"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text=%20Просмотры%20главной%20страницы"/>
 
 </div>
 
@@ -194,14 +196,15 @@
 
 ## Заметки
 
-### Прямая raw-ссылка на файл репозитория GitHub
+### GitHub Raw
 
-`https://raw.githubusercontent.com/JularDepick/<Repo>/main/<path>`
+`https://raw.githubusercontent.com/JularDepick/<repo>/main/<path>`
 
-### GitHub API
+### GitHub REST API
 
 - Информация о пользователе `https://api.github.com/users/JularDepick`
 - Репозитории пользователя `https://api.github.com/users/JularDepick/repos`
+- Информация о репозитории `https://api.github.com/repos/JularDepick/<repo>`
 
 ### Бейджи
 

@@ -12,9 +12,11 @@
 
 <br>
 
-[**[JularDepick's GitHub Pages]**](https://JularDepick.github.io)
+[**[我的 GitHub Pages]**](https://JularDepick.github.io)
+[**[我的 Gravatar]**](https://gravatar.com/always488c662dea)
+[**[我的 NPMJS]**](https://www.npmjs.com/~julardepick)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text= 主 頁 瀏 覽 量"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text=%20主%20頁%20瀏%20覽%20量"/>
 
 </div>
 
@@ -196,18 +198,19 @@
 
 ## 小筆記
 
-### GitHub倉庫raw檔案直鏈
+### GitHub Raw
 
-`https://raw.githubusercontent.com/JularDepick/<Repo>/main/<path>`
+`https://raw.githubusercontent.com/JularDepick/<repo>/main/<path>`
 
-### GitHub API
+### GitHub REST API
 
 - 使用者資訊 `https://api.github.com/users/JularDepick`
 - 使用者倉庫 `https://api.github.com/users/JularDepick/repos`
+- 倉庫資訊 `https://api.github.com/repos/JularDepick/<repo>`
 
 ### 徽章
 
-- 瀏覽量 `<img src="https://visitor-badge.laobi.icu/badge?page_id=<text>&left_text= 瀏 覽 量"/>`
+- 瀏覽量 `<img src="https://visitor-badge.laobi.icu/badge?page_id=<text>&left_text=%20瀏%20覽%20量"/>`
 - 倉庫程式碼量 `<img src="https://img.shields.io/github/languages/code-size/JularDepick/<repo>?label=程式碼量"/>`
 - 倉庫大小 `<img src="https://img.shields.io/github/repo-size/JularDepick/<repo>?label=倉庫大小"/>`
 - 發布版本 `<img src="https://img.shields.io/github/v/release/JularDepick/<repo>?label=發布版本"/>`

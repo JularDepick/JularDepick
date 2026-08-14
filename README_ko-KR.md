@@ -12,9 +12,11 @@
 
 <br>
 
-[**[JularDepick's GitHub Pages]**](https://JularDepick.github.io)
+[**[내 GitHub Pages]**](https://JularDepick.github.io)
+[**[내 Gravatar]**](https://gravatar.com/always488c662dea)
+[**[내 NPMJS]**](https://www.npmjs.com/~julardepick)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text= 홈페이지 조회수"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text=%20홈페이지%20조회수"/>
 
 </div>
 
@@ -194,14 +196,15 @@
 
 ## 작은 메모
 
-### GitHub 저장소 raw 파일 직접 링크
+### GitHub Raw
 
-`https://raw.githubusercontent.com/JularDepick/<Repo>/main/<path>`
+`https://raw.githubusercontent.com/JularDepick/<repo>/main/<path>`
 
-### GitHub API
+### GitHub REST API
 
 - 사용자 정보 `https://api.github.com/users/JularDepick`
 - 사용자 저장소 `https://api.github.com/users/JularDepick/repos`
+- 저장소 정보 `https://api.github.com/repos/JularDepick/<repo>`
 
 ### 뱃지
 

@@ -12,9 +12,11 @@
 
 <br>
 
-[**[JularDepick's GitHub Pages]**](https://JularDepick.github.io)
+[**[Mes GitHub Pages]**](https://JularDepick.github.io)
+[**[Mon Gravatar]**](https://gravatar.com/always488c662dea)
+[**[Mon NPMJS]**](https://www.npmjs.com/~julardepick)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text= Vues de la page"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text=Vues%20de%20la%20page"/>
 
 </div>
 
@@ -195,14 +197,15 @@
 
 ## Petites notes
 
-### Lien direct raw du fichier du dépôt GitHub
+### GitHub Raw
 
-`https://raw.githubusercontent.com/JularDepick/<Repo>/main/<path>`
+`https://raw.githubusercontent.com/JularDepick/<repo>/main/<path>`
 
-### GitHub API
+### GitHub REST API
 
 - Informations utilisateur `https://api.github.com/users/JularDepick`
 - Dépôts utilisateur `https://api.github.com/users/JularDepick/repos`
+- Informations sur le dépôt `https://api.github.com/repos/JularDepick/<repo>`
 
 ### Badges
 

@@ -12,9 +12,11 @@
 
 <br>
 
-[**[JularDepick's GitHub Pages]**](https://JularDepick.github.io)
+[**[私の GitHub Pages]**](https://JularDepick.github.io)
+[**[私の Gravatar]**](https://gravatar.com/always488c662dea)
+[**[私の NPMJS]**](https://www.npmjs.com/~julardepick)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text= ホームページ閲覧数"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text=%20ホームページ閲覧数"/>
 
 </div>
 
@@ -195,14 +197,15 @@
 
 ## メモ
 
-### GitHubリポジトリのrawファイル直リンク
+### GitHub Raw
 
-`https://raw.githubusercontent.com/JularDepick/<Repo>/main/<path>`
+`https://raw.githubusercontent.com/JularDepick/<repo>/main/<path>`
 
-### GitHub API
+### GitHub REST API
 
 - ユーザー情報 `https://api.github.com/users/JularDepick`
 - ユーザーリポジトリ `https://api.github.com/users/JularDepick/repos`
+- リポジトリ情報 `https://api.github.com/repos/JularDepick/<repo>`
 
 ### バッジ
 
