@@ -1,4 +1,4 @@
-# 嗨！我是 <strong>JularDepick</strong> ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
+# 嗨！我是 <strong>JularDepick</strong> ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Waving Hand.png" width="25px"/>&nbsp;<img src="JularDepick.png" style="width:32px;border-radius:10%;"/>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 [**[My Gravatar]**](https://gravatar.com/always488c662dea)
 [**[My NPMJS]**](https://www.npmjs.com/~julardepick)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text=%20主%20页%20浏%20览%20量"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JularDepick-JularDepick-README_md&left_text= 主 页 浏 览 量"/>
 
 </div>
 
@@ -33,7 +33,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 > 我正在学习的：
 
@@ -48,7 +48,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 > 想要参考我的技术栈学习路线？[点击这里去查看详细信息](TechStack/README.md)
 
@@ -208,7 +208,7 @@
 
 ### 徽章
 
-- 浏览量 `<img src="https://visitor-badge.laobi.icu/badge?page_id=<text>&left_text=%20浏%20览%20量"/>`
+- 浏览量 `<img src="https://visitor-badge.laobi.icu/badge?page_id=<text>&left_text= 浏 览 量"/>`
 - 仓库代码量 `<img src="https://img.shields.io/github/languages/code-size/JularDepick/<repo>?label=代码量"/>`
 - 仓库大小 `<img src="https://img.shields.io/github/repo-size/JularDepick/<repo>?label=仓库大小"/>`
 - 发布版本 `<img src="https://img.shields.io/github/v/release/JularDepick/<repo>?label=发布版本"/>`
