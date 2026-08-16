@@ -158,6 +158,7 @@
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-07f?style=flat&logo=deepseek&logoColor=white)](https://platform.deepseek.com)
 [![XiaomiMiMo](https://img.shields.io/badge/XiaomiMiMo-grey?style=flat&logo=xiaomi&logoColor=white)](https://platform.xiaomimimo.com)
 
+[![DeepSeek-Harness](https://img.shields.io/badge/DeepSeek--Harness-222?style=flat&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
 [![AstrBot](https://img.shields.io/badge/AstrBot-5ebbde?style=flat&logo=chatbot&logoColor=white)](https://github.com/AstrBotDevs/AstrBot)
 [![OpenCode](https://img.shields.io/badge/OpenCode-789?style=flat&logo=opencode&logoColor=white)](https://opencode.ai)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-orange?style=flat&logo=claude&logoColor=white)](https://claude.com)
