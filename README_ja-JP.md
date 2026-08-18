@@ -197,10 +197,14 @@
 [[私の GitHub Pages]](https://JularDepick.github.io)
 [[私の Gravatar]](https://gravatar.com/always488c662dea)
 [[私の NPMJS]](https://www.npmjs.com/~julardepick)
+[[私の CNB.COOL]](https://cnb.cool/u/JularDepick)
+[[私の Gitee]](https://gitee.com/JularDepick)
 [[私の CurseForge プロフィール]](https://curseforge.com/members/JularDepick)
 [[私の Modrinth プロフィール]](https://modrinth.com/user/JularDepick)
 
 </div>
+
+- **公開リポジトリのミラー**：`https://cnb.cool/JularDepick/<repo>/` (毎日UTC時間に自動同期)
 
 
 

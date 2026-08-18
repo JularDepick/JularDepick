@@ -196,10 +196,14 @@
 [[내 GitHub Pages]](https://JularDepick.github.io)
 [[내 Gravatar]](https://gravatar.com/always488c662dea)
 [[내 NPMJS]](https://www.npmjs.com/~julardepick)
+[[내 CNB.COOL]](https://cnb.cool/u/JularDepick)
+[[내 Gitee]](https://gitee.com/JularDepick)
 [[내 CurseForge 프로필]](https://curseforge.com/members/JularDepick)
 [[내 Modrinth 프로필]](https://modrinth.com/user/JularDepick)
 
 </div>
+
+- **공개 저장소 미러**: `https://cnb.cool/JularDepick/<repo>/` (매일 UTC 시간 자동 동기화)
 
 
 

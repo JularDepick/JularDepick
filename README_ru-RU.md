@@ -196,10 +196,14 @@
 [[Мои GitHub Pages]](https://JularDepick.github.io)
 [[Мой Gravatar]](https://gravatar.com/always488c662dea)
 [[Мой NPMJS]](https://www.npmjs.com/~julardepick)
+[[Мой CNB.COOL]](https://cnb.cool/u/JularDepick)
+[[Мой Gitee]](https://gitee.com/JularDepick)
 [[Мой профиль CurseForge]](https://curseforge.com/members/JularDepick)
 [[Мой профиль Modrinth]](https://modrinth.com/user/JularDepick)
 
 </div>
+
+- **Зеркало публичного репозитория**: `https://cnb.cool/JularDepick/<repo>/` (автосинхронизация ежедневно по UTC)
 
 
 

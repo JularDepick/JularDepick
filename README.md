@@ -196,11 +196,14 @@
 [[My GitHub Pages]](https://JularDepick.github.io)
 [[My Gravatar]](https://gravatar.com/always488c662dea)
 [[My NPMJS]](https://www.npmjs.com/~julardepick)
+[[My CNB.COOL]](https://cnb.cool/u/JularDepick)
+[[My Gitee]](https://gitee.com/JularDepick)
 [[My CurseForge Profile]](https://curseforge.com/members/JularDepick)
 [[My Modrinth Profile]](https://modrinth.com/user/JularDepick)
 
 </div>
 
+- **公开仓库镜像**：`https://cnb.cool/JularDepick/<repo>/` (每日UTC时间自动同步)
 
 
 ## 小笔记
