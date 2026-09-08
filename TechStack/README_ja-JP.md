@@ -71,10 +71,12 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt_C++-20A362?style=flat&logo=Qt&logoColor=white)
 
 - Spring Boot はSpringベースの高速開発フレームワークで、自動設定と規約による設定の簡素化によりエンタープライズ向けアプリ開発を効率化します。主にJavaバックエンドのマイクロサービスやRESTful APIに使用され、Springの基礎知識が必要です
 - Vue.js はプログレッシブフロントエンドフレームワークで、リアクティブなデータバインディングとコンポーネントベースの設計を採用しています。既存プロジェクトへの統合が容易で、シングルページアプリケーションや中小規模プロジェクトに広く使われ、習得しやすくドキュメントも充実しています
 - React はFacebookが開発したフロントエンドUIライブラリで、JSXと仮想DOMに基づく高効率レンダリングを実現しています。膨大なエコシステム（Next.js、React Native）を持ち、大規模アプリケーションに適していますが、関数型プログラミングの理解が必要です
+- Qt はクロスプラットフォームのC++アプリケーションフレームワークで、豊富なGUIウィジェット、シグナル/スロット機構、QML宣言型UI記述言語を提供します。デスクトップアプリ、組み込みUI、クロスプラットフォームツール開発に広く使用され、学習には一定のC++基礎が必要です
 
 
 > 上記の内容は、個人が知っている技術スタックに基づいています

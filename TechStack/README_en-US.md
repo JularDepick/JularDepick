@@ -71,10 +71,12 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt_C++-20A362?style=flat&logo=Qt&logoColor=white)
 
 - Spring Boot is a rapid development framework built on Spring, simplifying enterprise application development through auto-configuration and convention over configuration, primarily used for Java backend microservices and RESTful APIs, requiring some Spring background
 - Vue.js is a progressive frontend framework that uses reactive data binding and component-based design, easy to integrate with existing projects, widely used for single-page applications and small-to-medium projects, beginner-friendly with excellent documentation
 - React is a frontend UI library developed by Facebook, achieving efficient rendering through JSX and a virtual DOM, with a vast ecosystem (Next.js, React Native), suitable for large-scale applications but requires an understanding of functional programming concepts
+- Qt is a cross-platform C++ application framework, providing rich GUI widgets, a signal-slot mechanism, and the QML declarative UI language, widely used for desktop applications, embedded UIs, and cross-platform tool development; learning it requires some C++ foundation
 
 
 > The above content is based solely on the tech stack I have personally worked with

@@ -6,8 +6,8 @@
 [![Copyright](https://img.shields.io/badge/Copyright-JularDepick-0066AA)](./COPYRIGHT)
 [![License](https://img.shields.io/badge/License-which-yellow)](./LICENSE)
 
-[English] |
-[简体中文](./README_zh-CN.md)
+[English](./README.md) |
+[简体中文]
 
 </div>
 

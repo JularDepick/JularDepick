@@ -71,10 +71,12 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt_C++-20A362?style=flat&logo=Qt&logoColor=white)
 
 - Spring Boot 是基于 Spring 的快速开发框架，通过自动配置和约定优于配置简化企业级应用开发，主要用于 Java 后端微服务和 RESTful API，需要一定的 Spring 基础
 - Vue.js 是渐进式前端框架，采用响应式数据绑定和组件化设计，易于与现有项目集成，广泛用于单页应用和中小型项目，上手友好且文档完善
 - React 是 Facebook 开发的前端 UI 库，基于 JSX 和虚拟 DOM 实现高效渲染，拥有庞大的生态（Next.js、React Native），适合大型应用但需要理解函数式编程思想
+- Qt 是跨平台的 C++ 应用开发框架，提供丰富的 GUI 控件、信号槽机制和 QML 声明式界面描述语言，广泛用于桌面应用、嵌入式界面和跨平台工具开发，学习需要一定的 C++ 基础
 
 
 > 以上内容仅基于本人了解过的技术栈
