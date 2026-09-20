@@ -12,3 +12,25 @@
 </div>
 
 ---
+
+## Directory Structure
+
+```
+```
+
+
+## Copyright
+
+Copyright &copy; 2026 JularDepick
+
+See [COPYRIGHT](./COPYRIGHT) for details.
+
+
+## License
+
+This repository uses the [LICENSE](./LICENSE) license.
+
+
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.

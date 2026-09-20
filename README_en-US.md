@@ -207,6 +207,7 @@
 
 - **Public repository mirror**: `https://cnb.cool/JularDepick/<repo>/` (auto-synced daily at UTC)
 
+> Without my written authorization, no organization or individual is permitted to set up a mirror of my public repositories. The term "mirror" in this declaration refers to a service that automatically synchronizes with my GitHub source, is publicly accessible, and achieves a synchronization level of 40% or more with my GitHub source.
 
 
 ## Little Notes

@@ -207,6 +207,7 @@
 
 - **Miroir du dépôt public** : `https://cnb.cool/JularDepick/<repo>/` (synchronisation automatique chaque jour à UTC)
 
+> Sans mon autorisation écrite, aucune organisation ni individu n'est autorisé à créer un miroir de mes dépôts publics. Le terme « miroir » dans cette déclaration désigne un service qui synchronise automatiquement avec ma source GitHub, est accessible au public et atteint un niveau de synchronisation d'au moins 40 % avec ma source GitHub.
 
 
 ## Petites notes
