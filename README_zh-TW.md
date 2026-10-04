@@ -88,26 +88,16 @@
 </details>
 
 
-
-## 我的團隊和組織 🏢
-
-<details><summary>&nbsp;<img src="Organizations/Favicon/Uxiyu-Team.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Uxiyu-Team</strong></summary>
-<p>一個線下熟人極客小圈子，不過我們暫時沒有什麼業務。</p>
-</details>
-
-<details><summary>&nbsp;<img src="Organizations/Favicon/Maix-Agent.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Maix-Agent</strong></summary>
-<p>我在這裡鼓搗人工智慧和Agent工具。</p>
-</details>
-
-
-
 ## 我的倉庫和專案 💩
 
-<details><summary><strong>Agent Skills</strong></summary>
+<details><summary><strong>Agent Skills&Plugins</strong></summary>
 
 - [[AGENTS.md-Best-Practices]](https://github.com/JularDepick/AGENTS.md-Best-Practices) 我的Agent使用經驗最佳實踐
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) 讓Agent自動組織使用者發言，維護持久化、綁定專案的想法文件庫
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) 深度分析聊天紀錄，輸出結構化報告，渲染為可瀏覽的 HTML 頁面
+- [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) 監控 DSH 系統程序的資源佔用,並以圖表形式向使用者報告結果
+- [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) 將 DSH 的每一次 Agent 互動量化為視覺化表現指標,自動同步至WakaTime,用資料展示你與 Agent 協作的生產力
+- [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) 由Agent驅動的通用 DSH 外掛開發範本
 
 </details>
 
@@ -130,7 +120,7 @@
 
 <details><summary><strong>Website Pages</strong></summary>
 
-- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 個人GithubPages專案，主要存放文件、示範、教程
+- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 個人GithubPages站點倉庫
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) 基於Vue3的Ollama客戶端WebUI，提供瀏覽器端的對話互動介面
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 原神樂器風物之詩琴模擬器
 - [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) 一個極簡、輕量的線上媒體瀏覽平台，以匿名方式幫你推廣喜愛的內容
@@ -142,6 +132,8 @@
 
 - [[UAV_MAS]](https://github.com/JularDepick/UAV_MAS) 我高中時為比賽製作的一個與無人機相關的C++程式
 - [[LoveHeartCreator]](https://github.com/JularDepick/LoveHeartCreator) 基於笛卡爾心形曲線的變形，在控制台上顯示心形圖案
+- [[lims.cpp]](https://github.com/JularDepick/lims.cpp) 實驗課課程作業:圖書館資訊管理系統
+- [[repo-init-expert]](https://github.com/JularDepick/repo-init-expert) 基於CLI11.hpp的命令列工具,用於初始化git儲存庫
 
 </details>
 

@@ -88,26 +88,16 @@
 </details>
 
 
-
-## 所属組織とチーム 🏢
-
-<details><summary>&nbsp;<img src="Organizations/Favicon/Uxiyu-Team.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Uxiyu-Team</strong></summary>
-<p>オフラインの知人ゲークの小さなサークルですが、当面は何も業務はありません。</p>
-</details>
-
-<details><summary>&nbsp;<img src="Organizations/Favicon/Maix-Agent.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Maix-Agent</strong></summary>
-<p>ここで人工知能とエージェントツールをいじっています。</p>
-</details>
-
-
-
 ## リポジトリとプロジェクト 💩
 
-<details><summary><strong>Agent Skills</strong></summary>
+<details><summary><strong>Agent Skills&Plugins</strong></summary>
 
 - [[AGENTS.md-Best-Practices]](https://github.com/JularDepick/AGENTS.md-Best-Practices) 私のエージェント使用経験のベストプラクティス
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) ユーザーの発言を自動的に整理し、エージェント用の永続的でプロジェクトに紐づくアイデア文書ライブラリを維持する
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) チャットログの詳細分析、構造化レポートの出力、閲可能なHTMLページとしてレンダリング
+- [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) DSHシステムプロセスのリソース使用状況を監視し、結果をチャート形式でユーザーに報告する
+- [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) DSHの各Agentインタラクションを可視化されたパフォーマンス指標に量化し、WakaTimeに自動同期して、Agentとの協働の生産性をデータで示す
+- [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) Agent駆動の汎用DSHプラグイン開発テンプレート
 
 </details>
 
@@ -130,7 +120,7 @@
 
 <details><summary><strong>Website Pages</strong></summary>
 
-- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 個人GithubPagesプロジェクト。主にドキュメント、デモ、チュートリアルを掲載
+- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 個人GithubPagesサイトのリポジトリ
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3ベースのOllamaクライアントWebUI。ブラウザでのチャット対話インターフェースを提供
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 原神の楽器・風物の詩琴シミュレーター
 - [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) お気に入りのコンテンツを匿名で宣伝する、ミニマルで軽量なオンラインメディア閲覧プラットフォーム
@@ -142,6 +132,8 @@
 
 - [[UAV_MAS]](https://github.com/JularDepick/UAV_MAS) 高校時代のコンテスト用に制作したドローン関連のC++プログラム
 - [[LoveHeartCreator]](https://github.com/JularDepick/LoveHeartCreator) デカルト心臓曲線の変形に基づいて、コンソールにハート模様を表示する
+- [[lims.cpp]](https://github.com/JularDepick/lims.cpp) 実験授業の課題：図書館情報管理システム
+- [[repo-init-expert]](https://github.com/JularDepick/repo-init-expert) CLI11.hppベースのgitリポジトリ初期化用コマンドラインツール
 
 </details>
 

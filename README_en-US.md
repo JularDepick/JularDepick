@@ -88,26 +88,16 @@
 </details>
 
 
-
-## My Organizations and Teams 🏢
-
-<details><summary>&nbsp;<img src="Organizations/Favicon/Uxiyu-Team.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Uxiyu-Team</strong></summary>
-<p>A small offline geek circle of friends, though we don't have any business for now.</p>
-</details>
-
-<details><summary>&nbsp;<img src="Organizations/Favicon/Maix-Agent.jpg" style="width:15px;border-radius:20%;"/>&nbsp;<strong>Maix-Agent</strong></summary>
-<p>I tinker with AI and Agent tools here.</p>
-</details>
-
-
-
 ## My Repositories and Projects 💩
 
-<details><summary><strong>Agent Skills</strong></summary>
+<details><summary><strong>Agent Skills&Plugins</strong></summary>
 
 - [[AGENTS.md-Best-Practices]](https://github.com/JularDepick/AGENTS.md-Best-Practices) My best practices for Agent usage experience
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) Automatically organize user statements and maintain a persistent, project-bound idea document library for Agents
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) Deep analysis of chat logs, output structured reports, and render as browsable HTML pages
+- [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) Monitors resource usage of DSH system processes and reports results to the user in the form of charts
+- [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) Quantifies every DSH Agent interaction into visual performance metrics, auto-syncs to WakaTime, and shows your productivity when collaborating with Agents through data
+- [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) A universal DSH plugin development template driven by an Agent
 
 </details>
 
@@ -130,7 +120,7 @@
 
 <details><summary><strong>Website Pages</strong></summary>
 
-- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) Personal GithubPages project, mainly for documentation, demos, and tutorials
+- [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) Personal GithubPages site repository
 - [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3-based Ollama client WebUI, providing a browser-based chat interaction interface
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) Genshin Impact instrument Windsong Lyre simulator
 - [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) A minimalist, lightweight online media browsing platform that promotes your favorite content anonymously
@@ -142,6 +132,8 @@
 
 - [[UAV_MAS]](https://github.com/JularDepick/UAV_MAS) A UAV-related C++ program I made for a competition in high school
 - [[LoveHeartCreator]](https://github.com/JularDepick/LoveHeartCreator) Display heart patterns on the console based on the deformation of the Cartesian heart curve
+- [[lims.cpp]](https://github.com/JularDepick/lims.cpp) Lab course assignment: library information management system
+- [[repo-init-expert]](https://github.com/JularDepick/repo-init-expert) A CLI11.hpp-based command-line tool for initializing git repositories
 
 </details>
 
