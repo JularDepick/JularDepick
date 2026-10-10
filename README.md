@@ -95,6 +95,7 @@
 - [[AGENTS.md-Best-Practices]](https://github.com/JularDepick/AGENTS.md-Best-Practices) 我的Agent使用经验最佳实践
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) 让Agent自动组织用户发言，维护持久化、绑定项目的想法文档库
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) 深度分析聊天记录，输出结构化报告，渲染为可浏览的 HTML 页面
+- [[Agent-Video-Driver.SKILL]](https://github.com/JularDepick/Agent-Video-Driver.SKILL) 让你的Agent用脚本化的工具链自主生成视频而不需要任何视频生成模型
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) 监控 DSH 系统进程的资源占用,并以图表形式向用户报告结果
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) 将 DSH 的每一次 Agent 交互量化为可视化表现指标,自动同步至WakaTime,用数据展示你与 Agent 协作的生产力
 - [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) 由Agent驱动的通用 DSH 插件开发模板

@@ -95,6 +95,7 @@
 - [[AGENTS.md-Best-Practices]](https://github.com/JularDepick/AGENTS.md-Best-Practices) My best practices for Agent usage experience
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) Automatically organize user statements and maintain a persistent, project-bound idea document library for Agents
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) Deep analysis of chat logs, output structured reports, and render as browsable HTML pages
+- [[Agent-Video-Driver.SKILL]](https://github.com/JularDepick/Agent-Video-Driver.SKILL) Lets your Agent autonomously generate videos with a scripted toolchain without needing any video generation model
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) Monitors resource usage of DSH system processes and reports results to the user in the form of charts
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) Quantifies every DSH Agent interaction into visual performance metrics, auto-syncs to WakaTime, and shows your productivity when collaborating with Agents through data
 - [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) A universal DSH plugin development template driven by an Agent

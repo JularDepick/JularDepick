@@ -3,10 +3,11 @@ name: 部署仓库静态内容到Pages
 on:
   push:
     branches: ["main"]
+    paths:
+      - "**"
   workflow_dispatch:
 permissions:
   contents: read
-  actions: write
   pages: write
   id-token: write
 concurrency:
@@ -14,6 +15,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   deploy:
+    timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

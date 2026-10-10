@@ -95,6 +95,7 @@
 - [[AGENTS.md-Best-Practices]](https://github.com/JularDepick/AGENTS.md-Best-Practices) Мой опыт и лучшие практики использования Агентов
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) Автоматическая организация высказываний пользователя и ведение персонализированной, привязанной к проекту библиотеки идей для Агентов
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) Глубокий анализ журналов чатов, вывод структурированных отчётов и рендеринг в просматриваемые HTML-страницы
+- [[Agent-Video-Driver.SKILL]](https://github.com/JularDepick/Agent-Video-Driver.SKILL) Позволяет вашему Agent'у автономно генерировать видео с помощью скриптуемого инструментария, не требуя никаких моделей генерации видео
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) Мониторинг использования ресурсов системными процессами DSH и отчёт о результатах пользователю в виде графиков
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) Каждое взаимодействие Agent с DSH преобразуется в визуализируемые показатели продуктивности, автоматически синхронизируется с WakaTime и демонстрирует вашу продуктивность в работе с Agent с помощью данных
 - [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) Универсальный шаблон разработки плагинов DSH, управляемый Agent

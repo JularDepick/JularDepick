@@ -95,6 +95,7 @@
 - [[AGENTS.md-Best-Practices]](https://github.com/JularDepick/AGENTS.md-Best-Practices) 에이전트 사용 경험에 대한 나의 모범 사례
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) 에이전트를 위해 사용자 발언을 자동으로 정리하고 프로젝트에 연결된 영구 아이dea 문서 라이브러리를 유지합니다
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) 채팅 로그를 심층 분석하고, 구조화된 보고서를 출력하며, 탐색 가능한 HTML 페이지로 렌더링합니다
+- [[Agent-Video-Driver.SKILL]](https://github.com/JularDepick/Agent-Video-Driver.SKILL) 어떤 동영상 생성 모델도 없이 스크립트화된 도구 체인으로 Agent가 동영상을 자율 생성하게 합니다
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) DSH 시스템 프로세스의 리소스 사용량을 모니터링하고 결과를 차트 형태로 사용자에게 보고합니다
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) DSH의 모든 Agent 상호작용을 시각화된 성과 지표로 정량화하여 WakaTime에 자동 동기화하고, 데이터로 Agent와 협업하는 생산성을 보여줍니다
 - [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) Agent 주도의 범용 DSH 플러그인 개발 템플릿
