@@ -139,6 +139,16 @@
 </details>
 
 
+## 貢献したリポジトリ 👣
+
+<details><summary>クリックして詳細を表示</summary>
+
+- Agent厳選スキル集: https://github.com/sickn33/agentic-awesome-skills
+
+> 具体的な貢献内容は[コミュニティ貢献記録](./CONTRIBUTED/CONTRIBUTED_ja-JP.md)を参照。
+
+</details>
+
 
 ## 好きなライセンス 📄
 

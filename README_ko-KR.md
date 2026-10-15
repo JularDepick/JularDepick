@@ -139,6 +139,16 @@
 </details>
 
 
+## 기여한 저장소 👣
+
+<details><summary>클릭하여 자세히 보기</summary>
+
+- Agent 엄선 스킬 모음: https://github.com/sickn33/agentic-awesome-skills
+
+> 자세한 기여 내용은 [커뮤니티 기여 기록](./CONTRIBUTED/CONTRIBUTED_ko-KR.md)을 참조하세요.
+
+</details>
+
 
 ## 선호하는 라이선스 📄
 

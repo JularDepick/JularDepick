@@ -139,6 +139,16 @@
 </details>
 
 
+## Repositories I've Contributed To 👣
+
+<details><summary>Click to expand</summary>
+
+- Agent curated skills collection: https://github.com/sickn33/agentic-awesome-skills
+
+> See [Community Contribution Records](./CONTRIBUTED/CONTRIBUTED_en-US.md) for contribution details.
+
+</details>
+
 
 ## My Preferred Licenses 📄
 

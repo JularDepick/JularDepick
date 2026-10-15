@@ -96,8 +96,8 @@
 - [[user-thoughts.SKILL]](https://github.com/JularDepick/user-thoughts.SKILL) 讓Agent自動組織使用者發言，維護持久化、綁定專案的想法文件庫
 - [[ChatAnalysis.SKILL]](https://github.com/JularDepick/ChatAnalysis.SKILL) 深度分析聊天紀錄，輸出結構化報告，渲染為可瀏覽的 HTML 頁面
 - [[Agent-Video-Driver.SKILL]](https://github.com/JularDepick/Agent-Video-Driver.SKILL) 讓你的Agent用腳本化的工具鏈自主生成影片而不需要任何影片生成模型
-- [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) 監控 DSH 系統程序的資源佔用,並以圖表形式向使用者報告結果
-- [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) 將 DSH 的每一次 Agent 互動量化為視覺化表現指標,自動同步至WakaTime,用資料展示你與 Agent 協作的生產力
+- [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) 監控DSH系統程序的資源佔用,並以圖表形式向使用者報告結果
+- [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) 將DSH的每一次Agent互動量化為視覺化表現指標,自動同步至WakaTime,用資料展示你與Agent協作的生產力
 - [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) 由Agent驅動的通用 DSH 外掛開發範本
 
 </details>
@@ -138,6 +138,16 @@
 
 </details>
 
+
+## 我貢獻過的倉庫 👣
+
+<details><summary>點擊查看詳情</summary>
+
+- Agent精選技能合集: https://github.com/sickn33/agentic-awesome-skills
+
+> 具體貢獻內容詳見 [社區貢獻記錄表](./CONTRIBUTED/CONTRIBUTED_zh-TW.md)
+
+</details>
 
 
 ## 我偏好的授權條款 📄

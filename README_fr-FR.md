@@ -139,6 +139,16 @@
 </details>
 
 
+## Les dépôts auxquels j'ai contribué 👣
+
+<details><summary>Cliquez pour déplier</summary>
+
+- Collection de compétences Agent sélectionnées : https://github.com/sickn33/agentic-awesome-skills
+
+> Voir les [registres de contributions communautaires](./CONTRIBUTED/CONTRIBUTED_fr-FR.md) pour le détail des contributions.
+
+</details>
+
 
 ## Mes licences préférées 📄
 

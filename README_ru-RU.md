@@ -139,6 +139,17 @@
 </details>
 
 
+## Репозитории, которым я внёс вклад 👣
+
+<details><summary>Нажмите, чтобы увидеть детали</summary>
+
+- Коллекция избранных навыков Agent: https://github.com/sickn33/agentic-awesome-skills
+
+> Подробности вклада см. в [таблице записей о вкладе в сообщество](./CONTRIBUTED/CONTRIBUTED_ru-RU.md).
+
+</details>
+
+
 ## Предпочитаемые лицензии 📄
 
 [![MIT](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE/MIT)
