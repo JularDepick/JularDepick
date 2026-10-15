@@ -10,11 +10,13 @@
 [**[한국어]**](CONTRIBUTED_ko-KR.md)
 [**[Русский]**](CONTRIBUTED_ru-RU.md)
 
-</div>
+---
 
 | Date | Dépôt communautaire | Contenu de la contribution | Nombre de commits |
 |:---:|:---:|:---:|:---:|
-| 2026-06-02 | https://github.com/sickn33/agentic-awesome-skills | Ajout de la compétence [JularDepick/user-thoughts.SKILL](https://github.com/JularDepick/user-thoughts.SKILL) | 1 |
+| 2026-06-02 | [sickn33/<br>agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Ajout de la compétence<br>[JularDepick/<br>user-thoughts.SKILL](https://github.com/JularDepick/user-thoughts.SKILL) | 1 |
+
+</div>
 
 > Les dates sont calculées dans le fuseau horaire UTC+8, basées sur le temps du commit, hors durée de revue des PR
 

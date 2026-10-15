@@ -10,11 +10,13 @@
 [**[한국어]**](CONTRIBUTED_ko-KR.md)
 [**[Русский]**](CONTRIBUTED_ru-RU.md)
 
-</div>
+---
 
 | 날짜 | 커뮤니티 저장소 | 기여 내용 | 커밋 수 |
 |:---:|:---:|:---:|:---:|
-| 2026-06-02 | https://github.com/sickn33/agentic-awesome-skills | 스킬 항목 추가 [JularDepick/user-thoughts.SKILL](https://github.com/JularDepick/user-thoughts.SKILL) | 1 |
+| 2026-06-02 | [sickn33/<br>agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 스킬 항목 추가<br>[JularDepick/<br>user-thoughts.SKILL](https://github.com/JularDepick/user-thoughts.SKILL) | 1 |
+
+</div>
 
 > 날짜는 UTC+8 시간대를 기준으로 계산하며, 커밋 시간을 기준으로 PR 리뷰 기간은 제외합니다
 

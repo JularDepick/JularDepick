@@ -10,11 +10,13 @@
 [**[한국어]**](CONTRIBUTED_ko-KR.md)
 [**[Русский]**](CONTRIBUTED_ru-RU.md)
 
-</div>
+---
 
 | 日期 | 社區倉庫 | 貢獻內容 | 提交量 |
 |:---:|:---:|:---:|:---:|
-| 2026-06-02 | https://github.com/sickn33/agentic-awesome-skills | 新增技能收錄 [JularDepick/user-thoughts.SKILL](https://github.com/JularDepick/user-thoughts.SKILL) | 1 |
+| 2026-06-02 | [sickn33/<br>agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 新增技能收錄<br>[JularDepick/<br>user-thoughts.SKILL](https://github.com/JularDepick/user-thoughts.SKILL) | 1 |
+
+</div>
 
 > 日期按 UTC+8 時區計算,以commit時間為準,忽略PR審核時長
 
