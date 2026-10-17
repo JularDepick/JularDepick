@@ -15,7 +15,6 @@
 </div>
 
 
-
 ## 技術棧 🖥️
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -46,7 +45,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 > 想要參考我的技術棧學習路線？[點擊這裡去查看詳細資訊](TechStack/README_zh-TW.md)
-
 
 
 ## 我的身份 👻
@@ -83,7 +81,7 @@
   <li>DeepSeek你怎麼這麼蠢 🤪</li>
   <li>OpenCode又把UI搞壞了 😰</li>
   <li>Claude又把優化給優化了 😖</li>
-  <li>都說了你別碰我的Git啊！ 😡</li>
+  <li>你寫的文件怎麼這麼醜啊！ 😡</li>
 </ul>
 </details>
 
@@ -116,6 +114,7 @@
 
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) 攜帶TDM-GCC-10.3.0編譯器的Dev-Cpp-5.11編輯器安裝包。提供預設設定安裝包和原版安裝包。
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) 為紅石訊號遠端傳遞實作的Minecraft模組
+- [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) 一款 Minecraft 模組: 透過擲骰子觸發隨機獎勵或懲罰,所有回報都取決於你的賭注和運氣
 
 </details>
 
@@ -141,7 +140,7 @@
 
 ## 我貢獻過的倉庫 👣
 
-<details><summary>點擊展開</summary><br>
+<details><summary>點擊展開</summary>
 
 - Agent精選技能合集: https://github.com/sickn33/agentic-awesome-skills
 - DSH精選外掛合集: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
@@ -156,7 +155,6 @@
 [![MIT](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE/MIT)
 [![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-orange)](./LICENSE/Apache-2.0)
 [![AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-red)](./LICENSE/AGPL-3.0)
-
 
 
 ## 我正在使用的模型和Agent工具 👾
@@ -174,8 +172,6 @@
 [![MiMoCode](https://img.shields.io/badge/MiMoCode-888?style=flat&logo=xiaomi&logoColor=white)](https://github.com/XiaomiMiMo/MiMo-Code)
 
 
-
-
 ## 贊助我 ❤️
 
 <ul>
@@ -191,9 +187,7 @@
 </ul>
 
 
-
 > 我的主頁是不是看起來很蠢？哈哈，我是 <s>故意</s> 這樣的 🤔
-
 
 
 ## 關聯連結

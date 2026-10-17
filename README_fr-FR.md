@@ -15,7 +15,6 @@
 </div>
 
 
-
 ## Stack technique 🖥️
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -46,7 +45,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 > Vous voulez voir mon parcours d'apprentissage de la stack technique ? [Cliquez ici pour les détails](TechStack/README_fr-FR.md)
-
 
 
 ## Qui je suis 👻
@@ -83,7 +81,7 @@
   <li>DeepSeek, pourquoi es-tu si bête 🤪</li>
   <li>OpenCode a encore cassé l'interface 😰</li>
   <li>Claude a optimisé l'optimisation jusqu'à la casser 😖</li>
-  <li>Je t'avais dit de ne pas toucher à mon Git ! 😡</li>
+  <li>Pourquoi les documents que tu écris sont si laids ! 😡</li>
 </ul>
 </details>
 
@@ -116,6 +114,7 @@
 
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) Kit d'installation de l'éditeur Dev-Cpp-5.11 avec le compilateur TDM-GCC-10.3.0. Fournit un kit d'installation avec configuration prédéfinie et un kit d'installation original.
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) Un mod Minecraft pour la transmission à distance des signaux de redstone
+- [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) Un mod Minecraft : déclencher des récompenses ou des punitions aléatoires en lançant des dés, tous les résultats dépendent de votre mise et de votre chance
 
 </details>
 
@@ -141,7 +140,7 @@
 
 ## Les dépôts auxquels j'ai contribué 👣
 
-<details><summary>Cliquez pour déplier</summary><br>
+<details><summary>Cliquez pour déplier</summary>
 
 - Collection de compétences Agent sélectionnées : https://github.com/sickn33/agentic-awesome-skills
 - Collection de plugins DSH sélectionnés : https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
@@ -156,7 +155,6 @@
 [![MIT](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE/MIT)
 [![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-orange)](./LICENSE/Apache-2.0)
 [![AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-red)](./LICENSE/AGPL-3.0)
-
 
 
 ## Modèles et outils d'Agent que j'utilise 👾
@@ -174,7 +172,6 @@
 [![MiMoCode](https://img.shields.io/badge/MiMoCode-888?style=flat&logo=xiaomi&logoColor=white)](https://github.com/XiaomiMiMo/MiMo-Code)
 
 
-
 ## Me sponsoriser ❤️
 
 <ul>
@@ -190,9 +187,7 @@
 </ul>
 
 
-
 > Ma page d'accueil a l'air stupide ? Haha, c'est <s>volontaire</s> 🤔
-
 
 
 ## Liens associés

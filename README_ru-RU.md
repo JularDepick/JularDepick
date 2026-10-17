@@ -15,7 +15,6 @@
 </div>
 
 
-
 ## Технологический стек 🖥️
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -46,7 +45,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 > Хотите посмотреть мой план изучения технологий? [Нажмите здесь для подробностей](TechStack/README_ru-RU.md)
-
 
 
 ## Обо мне 👻
@@ -83,7 +81,7 @@
   <li>DeepSeek, ну почему ты такой тупой 🤪</li>
   <li>OpenCode опять сломал интерфейс 😰</li>
   <li>Claude оптимизировал оптимизацию 😖</li>
-  <li>Я же говорил — не трогай мой Git! 😡</li>
+  <li>Почему документы, которые ты пишешь, такие уродливые! 😡</li>
 </ul>
 </details>
 
@@ -116,6 +114,7 @@
 
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) Установщик редактора Dev-Cpp-5.11 с компилятором TDM-GCC-10.3.0. Предоставляет установщик с предустановленной конфигурацией и оригинальный установщик.
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) Мод Minecraft для удалённой передачи сигналов редстоуна
+- [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) Мод Minecraft: случайные награды или наказания за бросок кубиков, всё зависит от вашей ставки и удачи
 
 </details>
 
@@ -141,7 +140,7 @@
 
 ## Репозитории, которым я внёс вклад 👣
 
-<details><summary>Нажмите, чтобы развернуть</summary><br>
+<details><summary>Нажмите, чтобы развернуть</summary>
 
 - Коллекция избранных навыков Agent: https://github.com/sickn33/agentic-awesome-skills
 - Коллекция избранных плагинов DSH: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
@@ -156,7 +155,6 @@
 [![MIT](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE/MIT)
 [![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-orange)](./LICENSE/Apache-2.0)
 [![AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-red)](./LICENSE/AGPL-3.0)
-
 
 
 ## Модели и инструменты Агентов, которые я использую 👾
@@ -174,7 +172,6 @@
 [![MiMoCode](https://img.shields.io/badge/MiMoCode-888?style=flat&logo=xiaomi&logoColor=white)](https://github.com/XiaomiMiMo/MiMo-Code)
 
 
-
 ## Поддержать меня ❤️
 
 <ul>
@@ -190,9 +187,7 @@
 </ul>
 
 
-
 > Моя домашняя страница выглядит глупо? Ха-ха, я так <s>специально</s> 🤔
-
 
 
 ## Связанные ссылки

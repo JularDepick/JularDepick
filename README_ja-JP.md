@@ -15,7 +15,6 @@
 </div>
 
 
-
 ## 技術スタック 🖥️
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -46,7 +45,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 > 私の技術スタック学習ロードマップを見たいですか？[こちらをクリックして詳細を確認](TechStack/README_ja-JP.md)
-
 
 
 ## 私について 👻
@@ -83,7 +81,7 @@
   <li>DeepSeek、なんでそんなにバカなの 🤪</li>
   <li>OpenCodeがまたUIを壊した 😰</li>
   <li>Claudeが最適化を最適化して壊した 😖</li>
-  <li>Gitに触るなって言ったでしょ！ 😡</li>
+  <li>あなたが書いたドキュメント、なんでこんなにダサいの！ 😡</li>
 </ul>
 </details>
 
@@ -116,6 +114,7 @@
 
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) TDM-GCC-10.3.0コンパイラを同梱したDev-Cpp-5.11エディタインストーラー。プリセット設定インストーラーとオリジナルインストーラーを提供。
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) レッドストーン信号を遠隔伝送するためのMinecraft MOD
+- [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) Minecraft MOD: サイコロを振ってランダムな報酬または罰を発生させる。すべての見返りはあなたの賭けと運次第
 
 </details>
 
@@ -141,7 +140,7 @@
 
 ## 貢献したリポジトリ 👣
 
-<details><summary>クリックして展開</summary><br>
+<details><summary>クリックして展開</summary>
 
 - Agent厳選スキル集: https://github.com/sickn33/agentic-awesome-skills
 - DSH厳選プラグイン集: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
@@ -156,7 +155,6 @@
 [![MIT](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE/MIT)
 [![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-orange)](./LICENSE/Apache-2.0)
 [![AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-red)](./LICENSE/AGPL-3.0)
-
 
 
 ## 使用中のモデルとエージェントツール 👾
@@ -174,7 +172,6 @@
 [![MiMoCode](https://img.shields.io/badge/MiMoCode-888?style=flat&logo=xiaomi&logoColor=white)](https://github.com/XiaomiMiMo/MiMo-Code)
 
 
-
 ## 寄付のお願い ❤️
 
 <ul>
@@ -190,9 +187,7 @@
 </ul>
 
 
-
 > マイページがバカみたいに見える？うん、<s>わざと</s>です 🤔
-
 
 
 ## 関連リンク

@@ -15,7 +15,6 @@
 </div>
 
 
-
 ## 技术栈 🖥️
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -46,7 +45,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 > 想要参考我的技术栈学习路线？[点击这里去查看详细信息](TechStack/README.md)
-
 
 
 ## 我的身份 👻
@@ -83,7 +81,7 @@
   <li>DeepSeek你怎么这么蠢 🤪</li>
   <li>OpenCode又把UI搞坏了 😰</li>
   <li>Claude又把优化给优化了 😖</li>
-  <li>都说了你别碰我的Git啊！ 😡</li>
+  <li>你写的文档怎么这么丑啊！ 😡</li>
 </ul>
 </details>
 
@@ -116,6 +114,7 @@
 
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) 携带TDM-GCC-10.3.0编译器的Dev-Cpp-5.11编辑器安装包。提供预设配置安装包和原版安装包
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) 为红石信号远程传递实现的Minecraft模组
+- [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) 一款 Minecraft 模组: 通过掷骰子触发随机奖励或惩罚,所有回报都取决于你的赌注和运气
 
 </details>
 
@@ -141,7 +140,7 @@
 
 ## 我贡献过的仓库 👣
 
-<details><summary>点击展开</summary><br>
+<details><summary>点击展开</summary>
 
 - Agent精选技能合集: https://github.com/sickn33/agentic-awesome-skills
 - DSH精选插件合集: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
@@ -156,7 +155,6 @@
 [![MIT](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE/MIT)
 [![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-orange)](./LICENSE/Apache-2.0)
 [![AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-red)](./LICENSE/AGPL-3.0)
-
 
 
 ## 我正在使用的模型和Agent工具 👾
@@ -174,7 +172,6 @@
 [![MiMoCode](https://img.shields.io/badge/MiMoCode-888?style=flat&logo=xiaomi&logoColor=white)](https://github.com/XiaomiMiMo/MiMo-Code)
 
 
-
 ## 赞助我 ❤️
 
 <ul>
@@ -190,9 +187,7 @@
 </ul>
 
 
-
 > 我的主页是不是看起来很蠢？哈哈，我是 <s>故意</s> 这样的 🤔
-
 
 
 ## 关联链接
@@ -212,6 +207,7 @@
 - **公开仓库镜像**：`https://cnb.cool/JularDepick/<repo>/` (每日UTC时间自动同步)
 
 > 未经本人书面授权,严禁任何组织或个人搭建本人公开仓库的镜像源。本声明所称“镜像源”系指具有自动同步本GitHub源的功能的、向公众开放的,且对本GitHub源的同步程度达到40%的镜像服务。
+
 
 ## 小笔记
 

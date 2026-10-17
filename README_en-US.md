@@ -15,7 +15,6 @@
 </div>
 
 
-
 ## Tech Stack 🖥️
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -46,7 +45,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 > Want to see my tech stack learning roadmap? [Click here for details](TechStack/README_en-US.md)
-
 
 
 ## Who I Am 👻
@@ -83,7 +81,7 @@
   <li>DeepSeek, why are you so dumb 🤪</li>
   <li>OpenCode broke the UI again 😰</li>
   <li>Claude optimized the optimization away 😖</li>
-  <li>I told you not to touch my Git! 😡</li>
+  <li>Why are your documents so ugly! 😡</li>
 </ul>
 </details>
 
@@ -116,6 +114,7 @@
 
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) Dev-Cpp-5.11 editor installer bundled with TDM-GCC-10.3.0 compiler. Provides preset configuration installer and original installer.
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) A Minecraft mod for transmitting redstone signals over long distances
+- [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) A Minecraft mod: trigger random rewards or punishments by rolling dice, all returns depend on your bet and luck
 
 </details>
 
@@ -141,7 +140,7 @@
 
 ## Repositories I've Contributed To 👣
 
-<details><summary>Click to expand</summary><br>
+<details><summary>Click to expand</summary>
 
 - Agent curated skills collection: https://github.com/sickn33/agentic-awesome-skills
 - DSH curated plugins collection: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
@@ -156,7 +155,6 @@
 [![MIT](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE/MIT)
 [![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-orange)](./LICENSE/Apache-2.0)
 [![AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-red)](./LICENSE/AGPL-3.0)
-
 
 
 ## Models and Agent Tools I'm Using 👾
@@ -174,7 +172,6 @@
 [![MiMoCode](https://img.shields.io/badge/MiMoCode-888?style=flat&logo=xiaomi&logoColor=white)](https://github.com/XiaomiMiMo/MiMo-Code)
 
 
-
 ## Sponsor Me ❤️
 
 <ul>
@@ -190,9 +187,7 @@
 </ul>
 
 
-
 > Does my homepage look silly? Haha, I did it on <s>purpose</s> 🤔
-
 
 
 ## Related Links

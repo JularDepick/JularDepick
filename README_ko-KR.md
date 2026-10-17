@@ -15,7 +15,6 @@
 </div>
 
 
-
 ## 기술 스택 🖥️
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -46,7 +45,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 > 제 기술 스택 학습 로드맵을 보고 싶으신가요? [여기를 클릭해서 자세한 정보 확인](TechStack/README_ko-KR.md)
-
 
 
 ## 저에 대해 👻
@@ -83,7 +81,7 @@
   <li>DeepSeek, 왜 이렇게 바보야 🤪</li>
   <li>OpenCode가 또 UI를 망가뜨렸다 😰</li>
   <li>Claude가 최적화를 최적화해서 망가뜨렸다 😖</li>
-  <li>Git에 손대지 말라고 했잖아! 😡</li>
+  <li>네가 쓴 문서는 왜 이렇게 못생겼어! 😡</li>
 </ul>
 </details>
 
@@ -116,6 +114,7 @@
 
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) TDM-GCC-10.3.0 컴파일러가 포함된 Dev-Cpp-5.11 에디터 설치 패키지. 프리셋 설정 설치 패키지와 오리지널 설치 패키지를 제공합니다.
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) 레드스톤 신호 원거리 전달을 위한 마인크래프트 모드
+- [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) 마인크래프트 모드: 주사위를 굴려 무작위 보상이나 벌칙을 발생시킵니다. 모든 보상은 당신의 베팅과 운에 달려 있습니다
 
 </details>
 
@@ -141,7 +140,7 @@
 
 ## 기여한 저장소 👣
 
-<details><summary>클릭하여 펼치기</summary><br>
+<details><summary>클릭하여 펼치기</summary>
 
 - Agent 엄선 스킬 모음: https://github.com/sickn33/agentic-awesome-skills
 - DSH 엄선 플러그인 모음: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
@@ -156,7 +155,6 @@
 [![MIT](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE/MIT)
 [![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-orange)](./LICENSE/Apache-2.0)
 [![AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-red)](./LICENSE/AGPL-3.0)
-
 
 
 ## 사용 중인 모델과 에이전트 도구 👾
@@ -189,9 +187,7 @@
 </ul>
 
 
-
 > 제 홈페이지가 바보 같아 보이나요? 네, <s>일부러</s> 그래요 🤔
-
 
 
 ## 관련 링크
@@ -210,7 +206,7 @@
 
 - **공개 저장소 미러**: `https://cnb.cool/JularDepick/<repo>/` (매일 UTC 시간 자동 동기화)
 
-> 본인의 서면 허가 없이는任何組織或個人이 본인의 공개 저장소를 미러링하는 것이엄격히 금지됩니다. 본 성명에서 '미러'라 함은 자동으로 본 GitHub 소스를 동기화하고, 대중에게 공개되며, 본 GitHub 소스와의 동기화율이 40% 이상인 서비스를 의미합니다.
+> 본인의 서면 허가 없이는 어떤 조직이나 개인도 본인의 공개 저장소를 미러링하는 것이 엄격히 금지됩니다. 본 성명에서 '미러'라 함은 자동으로 본 GitHub 소스를 동기화하고, 대중에게 공개되며, 본 GitHub 소스와의 동기화율이 40% 이상인 서비스를 의미합니다.
 
 
 ## 작은 메모

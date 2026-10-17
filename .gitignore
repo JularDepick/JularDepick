@@ -1,2 +1,7 @@
 # Agent Runtime
 AGENTS*.md
+
+# Agent Temp
+temp/
+.agent/
+.agents/
