@@ -141,9 +141,10 @@
 
 ## 기여한 저장소 👣
 
-<details><summary>클릭하여 자세히 보기</summary>
+<details><summary>클릭하여 펼치기</summary><br>
 
 - Agent 엄선 스킬 모음: https://github.com/sickn33/agentic-awesome-skills
+- DSH 엄선 플러그인 모음: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
 
 > 자세한 기여 내용은 [커뮤니티 기여 기록](./CONTRIBUTED/CONTRIBUTED_ko-KR.md)을 참조하세요.
 

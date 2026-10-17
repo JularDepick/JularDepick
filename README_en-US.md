@@ -141,9 +141,10 @@
 
 ## Repositories I've Contributed To 👣
 
-<details><summary>Click to expand</summary>
+<details><summary>Click to expand</summary><br>
 
 - Agent curated skills collection: https://github.com/sickn33/agentic-awesome-skills
+- DSH curated plugins collection: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
 
 > See [Community Contribution Records](./CONTRIBUTED/CONTRIBUTED_en-US.md) for contribution details.
 

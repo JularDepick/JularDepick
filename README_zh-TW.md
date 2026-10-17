@@ -141,9 +141,10 @@
 
 ## 我貢獻過的倉庫 👣
 
-<details><summary>點擊查看詳情</summary>
+<details><summary>點擊展開</summary><br>
 
 - Agent精選技能合集: https://github.com/sickn33/agentic-awesome-skills
+- DSH精選外掛合集: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
 
 > 具體貢獻內容詳見 [社區貢獻記錄表](./CONTRIBUTED/CONTRIBUTED_zh-TW.md)
 

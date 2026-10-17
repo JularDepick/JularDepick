@@ -141,9 +141,10 @@
 
 ## Les dépôts auxquels j'ai contribué 👣
 
-<details><summary>Cliquez pour déplier</summary>
+<details><summary>Cliquez pour déplier</summary><br>
 
 - Collection de compétences Agent sélectionnées : https://github.com/sickn33/agentic-awesome-skills
+- Collection de plugins DSH sélectionnés : https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
 
 > Voir les [registres de contributions communautaires](./CONTRIBUTED/CONTRIBUTED_fr-FR.md) pour le détail des contributions.
 
