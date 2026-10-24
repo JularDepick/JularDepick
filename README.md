@@ -96,6 +96,7 @@
 - [[Agent-Video-Driver.SKILL]](https://github.com/JularDepick/Agent-Video-Driver.SKILL) 让你的Agent用脚本化的工具链自主生成视频而不需要任何视频生成模型
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) 监控DSH系统进程的资源占用,并以图表形式向用户报告结果
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) 将DSH的每一次Agent交互量化为可视化表现指标,自动同步至WakaTime,用数据展示你与Agent协作的生产力
+- [[dsh-question-timeout-protection]](https://github.com/JularDepick/dsh-question-timeout-protection) 问答超时保护插件: 一旦 ask_user_question 超时,用户输入的内容将保留在UI或模型上下文中
 - [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) 由Agent驱动的通用 DSH 插件开发模板
 
 </details>
@@ -115,6 +116,7 @@
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) 携带TDM-GCC-10.3.0编译器的Dev-Cpp-5.11编辑器安装包。提供预设配置安装包和原版安装包
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) 为红石信号远程传递实现的Minecraft模组
 - [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) 一款 Minecraft 模组: 通过掷骰子触发随机奖励或惩罚,所有回报都取决于你的赌注和运气
+- [[TACZ-Enhanced-Patch]](https://github.com/JularDepick/TACZ-Enhanced-Patch) 永恒枪械模组增强补丁: 约束原始模组的行为以防止战斗力量系统崩溃,同时提供扩展性游戏功能
 
 </details>
 

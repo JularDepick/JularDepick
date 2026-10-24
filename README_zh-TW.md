@@ -97,6 +97,7 @@
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) 監控DSH系統程序的資源佔用,並以圖表形式向使用者報告結果
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) 將DSH的每一次Agent互動量化為視覺化表現指標,自動同步至WakaTime,用資料展示你與Agent協作的生產力
 - [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) 由Agent驅動的通用 DSH 外掛開發範本
+- [[dsh-question-timeout-protection]](https://github.com/JularDepick/dsh-question-timeout-protection) 問答超時保護外掛: 一旦 ask_user_question 超時,使用者輸入的內容將保留在UI或模型上下文中
 
 </details>
 
@@ -115,6 +116,7 @@
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) 攜帶TDM-GCC-10.3.0編譯器的Dev-Cpp-5.11編輯器安裝包。提供預設設定安裝包和原版安裝包。
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) 為紅石訊號遠端傳遞實作的Minecraft模組
 - [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) 一款 Minecraft 模組: 透過擲骰子觸發隨機獎勵或懲罰,所有回報都取決於你的賭注和運氣
+- [[TACZ-Enhanced-Patch]](https://github.com/JularDepick/TACZ-Enhanced-Patch) 永恆槍械模組增強補丁: 約束原始模組的行為以防止戰鬥力量系統崩潰,同時提供擴展性遊戲功能
 
 </details>
 

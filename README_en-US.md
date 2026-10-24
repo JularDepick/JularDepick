@@ -97,6 +97,7 @@
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) Monitors resource usage of DSH system processes and reports results to the user in the form of charts
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) Quantifies every DSH Agent interaction into visual performance metrics, auto-syncs to WakaTime, and shows your productivity when collaborating with Agents through data
 - [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) A universal DSH plugin development template driven by an Agent
+- [[dsh-question-timeout-protection]](https://github.com/JularDepick/dsh-question-timeout-protection) Question timeout protection plugin: once ask_user_question times out, the content entered by the user is retained in the UI or the model context
 
 </details>
 
@@ -115,6 +116,7 @@
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) Dev-Cpp-5.11 editor installer bundled with TDM-GCC-10.3.0 compiler. Provides preset configuration installer and original installer.
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) A Minecraft mod for transmitting redstone signals over long distances
 - [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) A Minecraft mod: trigger random rewards or punishments by rolling dice, all returns depend on your bet and luck
+- [[TACZ-Enhanced-Patch]](https://github.com/JularDepick/TACZ-Enhanced-Patch) Timeless and Classics Zero enhanced patch: constrains the behavior of the original mod to prevent the combat power system from crashing, while providing extensibility gameplay features
 
 </details>
 

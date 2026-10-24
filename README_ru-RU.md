@@ -97,6 +97,7 @@
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) Мониторинг использования ресурсов системными процессами DSH и отчёт о результатах пользователю в виде графиков
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) Каждое взаимодействие Agent с DSH преобразуется в визуализируемые показатели продуктивности, автоматически синхронизируется с WakaTime и демонстрирует вашу продуктивность в работе с Agent с помощью данных
 - [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) Универсальный шаблон разработки плагинов DSH, управляемый Agent
+- [[dsh-question-timeout-protection]](https://github.com/JularDepick/dsh-question-timeout-protection) Плагин защиты от тайм-аута вопроса: при истечении времени ожидания ask_user_question введённый пользователем текст сохраняется в интерфейсе или в контексте модели
 
 </details>
 
@@ -115,6 +116,7 @@
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) Установщик редактора Dev-Cpp-5.11 с компилятором TDM-GCC-10.3.0. Предоставляет установщик с предустановленной конфигурацией и оригинальный установщик.
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) Мод Minecraft для удалённой передачи сигналов редстоуна
 - [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) Мод Minecraft: случайные награды или наказания за бросок кубиков, всё зависит от вашей ставки и удачи
+- [[TACZ-Enhanced-Patch]](https://github.com/JularDepick/TACZ-Enhanced-Patch) Патч-улучшение для мода Timeless and Classics Zero: ограничивает поведение оригинального мода, предотвращая сбой системы боевой силы, и одновременно предоставляет расширяемые игровые функции
 
 </details>
 

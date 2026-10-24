@@ -97,6 +97,7 @@
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) DSH 시스템 프로세스의 리소스 사용량을 모니터링하고 결과를 차트 형태로 사용자에게 보고합니다
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) DSH의 모든 Agent 상호작용을 시각화된 성과 지표로 정량화하여 WakaTime에 자동 동기화하고, 데이터로 Agent와 협업하는 생산성을 보여줍니다
 - [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) Agent 주도의 범용 DSH 플러그인 개발 템플릿
+- [[dsh-question-timeout-protection]](https://github.com/JularDepick/dsh-question-timeout-protection) 질문 시간 초과 보호 플러그인: ask_user_question 시간이 초과되면 사용자가 입력한 내용이 UI 또는 모델 컨텍스트에 유지됩니다
 
 </details>
 
@@ -115,6 +116,7 @@
 - [[Dev-Cpp-5.11-Custom]](https://github.com/JularDepick/Dev-Cpp-5.11-Custom) TDM-GCC-10.3.0 컴파일러가 포함된 Dev-Cpp-5.11 에디터 설치 패키지. 프리셋 설정 설치 패키지와 오리지널 설치 패키지를 제공합니다.
 - [[Virtual-Redstone-Wire]](https://github.com/JularDepick/Virtual-Redstone-Wire) 레드스톤 신호 원거리 전달을 위한 마인크래프트 모드
 - [[Devil-Bone-Gambler]](https://github.com/JularDepick/Devil-Bone-Gambler) 마인크래프트 모드: 주사위를 굴려 무작위 보상이나 벌칙을 발생시킵니다. 모든 보상은 당신의 베팅과 운에 달려 있습니다
+- [[TACZ-Enhanced-Patch]](https://github.com/JularDepick/TACZ-Enhanced-Patch) Timeless and Classics Zero 모드 강화 패치: 원본 모드의 동작을 제약하여 전투력 시스템의 붕괴를 방지하고, 동시에 확장성 있는 게임 기능을 제공합니다
 
 </details>
 
