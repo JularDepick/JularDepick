@@ -12,6 +12,8 @@
 
 <img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick-JularDepick"/>
 
+[나는 여기에](https://JularDepick.github.io/) | [또 다른 나](https://WencueCryforme.github.io/)
+
 </div>
 
 
@@ -51,36 +53,38 @@
 
 <details><summary> 📚 <u>여러 분야</u>에 손대는<strong>취미인</strong></summary>
 <ul>
-  <li>👉 뭐든지 배우고 싶다 👈</li>
-  <li>👉 뭐든지 조금씩 할 줄 안다 👈</li>
-  <li>👉 뭐 하나 제대로 익히지 못한다 👈</li>
-  <li>👉 🤡그게 접니다🤡 👈</li>
+  <li>👉 물리·천문 👈</li>
+  <li>👉 현학·국학 👈</li>
+  <li>👉 동서양 철학 👈</li>
+  <li>👉 웹 문학 👈</li>
+  <li>👉 영화·음악 👈</li>
+  <li>👉 Minecraft 👈</li>
 </ul>
 </details>
 
 <details><summary>🎓 평범한<u>소프트웨어 공학</u><strong>학부생</strong></summary>
 <ul>
-  <li>미래가 캄캄하게 느껴진다 👆</li>
-  <li>매일 수업을 빠지고 잠만 잔다 😴</li>
-  <li>가끔 진로에 대해 생각한다 🤔</li>
-  <li>대기업이 나를 데려가 주길 간절히 바란다 👇</li>
+  <li>미래가 흐릿하게 느껴진다 👆</li>
+  <li>매일 물수업을 견디고 있다 😴</li>
+  <li>가끔 인생 철학을 생각한다 🤔</li>
+  <li>대기업이 나를 구해주길 상상한다 👇</li>
 </ul>
 </details>
 
 <details><summary>👨‍💻 아침부터 밤까지<u>코드</u>를 짜는<strong>코더</strong></summary>
 <ul>
-  <li>항상 손수 바퀴를 다시 발명하려 한다 😄</li>
-  <li>GitHub에서 쓰레기를 대량 생산한다 💩</li>
-  <li>눈 뜨자마자 코드와 사투를 벌인다 😳</li>
-  <li>C++ 말고는 아무것도 못 배운다 😭</li>
+  <li>작은 장난감을 직접 만드는 걸 특히 좋아한다 😄</li>
+  <li>GitHub에서 프로젝트를 미친 듯이 양산한다 💩</li>
+  <li>눈만 뜨면 Agent 😳</li>
+  <li>이 삶은 언제 끝나는 걸까 😭</li>
 </ul>
 </details>
 
-<details><summary>🤖 <u>에이전트</u>를 다루는<strong>YES 엔지니어</strong></summary>
+<details><summary>🤖 <u>에이전트</u>를 다루는<strong>초보 엔지니어</strong></summary>
 <ul>
   <li>DeepSeek, 왜 이렇게 바보야 🤪</li>
-  <li>OpenCode가 또 UI를 망가뜨렸다 😰</li>
-  <li>Claude가 최적화를 최적화해서 망가뜨렸다 😖</li>
+  <li>토마토 달걀 볶음은 사양(고추 없는 버전) 😰</li>
+  <li>최적화를 최적화했다니 무슨 말이야 😖</li>
   <li>네가 쓴 문서는 왜 이렇게 못생겼어! 😡</li>
 </ul>
 </details>
@@ -123,9 +127,11 @@
 <details><summary><strong>Website Pages</strong></summary>
 
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 개인 GithubPages 사이트 저장소
-- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3 기반의 Ollama 클라이언트 WebUI. 브라우저에서 대화형 인터페이스를 제공
+- [[Awesome-Short-Video]](https://WencueCryforme.github.io/awesome-short-video) 개인 엄선 숏폼 영상 온라인 재생
+- [[NaiWa-Universe]](https://WencueCryforme.github.io/NaiWa-Universe) 奶蛙 유니버스: 여기에는 奶蛙가 많이 있다
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 원신 임팩트 악기 윈드송 리라 시뮬레이터
 - [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) 좋아하는 콘텐츠를 익명으로 홍보하는 미니멀하고 가벼운 온라인 미디어 탐색 플랫폼
+- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3 기반의 Ollama 클라이언트 WebUI. 브라우저에서 대화형 인터페이스를 제공
 - [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) 개인 마이크로블로그 관리 도구. 블로그 온라인 관리 및 정적 웹페이지의 동적 생성 가능
 
 </details>

@@ -12,6 +12,8 @@
 
 <img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick-JularDepick"/>
 
+[Я здесь](https://JularDepick.github.io/) | [Другой я](https://WencueCryforme.github.io/)
+
 </div>
 
 
@@ -51,36 +53,38 @@
 
 <details><summary> 📚 <strong>Энтузиаст</strong>, интересующийся <u>многими областями</u></summary>
 <ul>
-  <li>👉 Хочу изучить всё 👈</li>
-  <li>👉 Всего понемногу 👈</li>
-  <li>👉 Ни в чём не мастер 👈</li>
-  <li>👉 🤡Это я🤡 👈</li>
+  <li>👉 Физика и астрономия 👈</li>
+  <li>👉 Метафизика и китайская классика 👈</li>
+  <li>👉 Восточная и западная философия 👈</li>
+  <li>👉 Сетевая литература 👈</li>
+  <li>👉 Кино и музыка 👈</li>
+  <li>👉 Minecraft 👈</li>
 </ul>
 </details>
 
 <details><summary>🎓 Обычный студент <u>программной инженерии</u>, <strong>бакалавр</strong></summary>
 <ul>
-  <li>Чувствую, что будущее мрачное 👆</li>
-  <li>Каждый день пропускаю пары и сплю 😴</li>
-  <li>Иногда задумываюсь о карьере 🤔</li>
-  <li>Мечтаю, что большая компания меня заманит 👇</li>
+  <li>Будущее кажется туманным 👆</li>
+  <li>Каждый день терплю бесполезные пары 😴</li>
+  <li>Иногда размышляю о философии жизни 🤔</li>
+  <li>В мечтах большая компания меня спасёт 👇</li>
 </ul>
 </details>
 
 <details><summary>👨‍💻 <strong>Кодер</strong>, пишу код от рассвета до заката <u>за клавиатурой</u></summary>
 <ul>
-  <li>Всё время люблю изобретать велосипед 😄</li>
-  <li>Пачками клепаю мусор на GitHub 💩</li>
-  <li>Как открою глаза — сразу в бой с кодом 😳</li>
-  <li>Кроме C++ ничему научиться не могу 😭</li>
+  <li>Особенно люблю мастерить маленькие штуковины 😄</li>
+  <li>Бешено клепаю проекты на GitHub 💩</li>
+  <li>Открыл глаза — и сразу Agent 😳</li>
+  <li>Когда же эта жизнь закончится 😭</li>
 </ul>
 </details>
 
-<details><summary>🤖 <strong>YES-инженер</strong>, ковыряющийся с <u>Агентами</u></summary>
+<details><summary>🤖 <strong>Инженер-новичок</strong>, ковыряющийся с <u>Агентами</u></summary>
 <ul>
   <li>DeepSeek, ну почему ты такой тупой 🤪</li>
-  <li>OpenCode опять сломал интерфейс 😰</li>
-  <li>Claude оптимизировал оптимизацию 😖</li>
+  <li>Не надо яичницы с помидорами (версия без перца) 😰</li>
+  <li>Что значит «ты оптимизировал оптимизацию» 😖</li>
   <li>Почему документы, которые ты пишешь, такие уродливые! 😡</li>
 </ul>
 </details>
@@ -123,9 +127,11 @@
 <details><summary><strong>Website Pages</strong></summary>
 
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) Репозиторий личного сайта GithubPages
-- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Клиент Ollama на Vue3 с веб-интерфейсом для чата в браузере
+- [[Awesome-Short-Video]](https://WencueCryforme.github.io/awesome-short-video) Личная подборка коротких видео для просмотра онлайн
+- [[NaiWa-Universe]](https://WencueCryforme.github.io/NaiWa-Universe) Вселенная NaiWa: здесь много лягушек NaiWa
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) Симулятор музыкального инструмента Песнь Ветра из Genshin Impact
 - [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) Минималистичная и лёгкая онлайн-платформа для просмотра медиа, анонимно продвигающая любимый контент
+- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Клиент Ollama на Vue3 с веб-интерфейсом для чата в браузере
 - [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) Инструмент управления личным микроблогом, обеспечивающий онлайн-управление блогом и динамическую генерацию статических веб-страниц
 
 </details>

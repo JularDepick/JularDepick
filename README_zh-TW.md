@@ -12,6 +12,8 @@
 
 <img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick-JularDepick"/>
 
+[我在這裡](https://JularDepick.github.io/) | [另一個我](https://WencueCryforme.github.io/)
+
 </div>
 
 
@@ -51,36 +53,38 @@
 
 <details><summary> 📚 一名涉獵<u>多個領域</u>的<strong>愛好者</strong></summary>
 <ul>
-  <li>👉 啥都想學 👈</li>
-  <li>👉 啥都會點 👈</li>
-  <li>👉 啥都不精 👈</li>
-  <li>👉 🤡我🤡 👈</li>
+  <li>👉 物理天文 👈</li>
+  <li>👉 玄學國學 👈</li>
+  <li>👉 中西哲學 👈</li>
+  <li>👉 網路文學 👈</li>
+  <li>👉 影視音樂 👈</li>
+  <li>👉 Minecraft 👈</li>
 </ul>
 </details>
 
 <details><summary>🎓 一名普通的<u>軟體工程</u><strong>本科生</strong></summary>
 <ul>
-  <li>感覺前途一片黑暗 👆</li>
-  <li>每天都在逃課睡覺 😴</li>
-  <li>偶爾思考職業路線 🤔</li>
+  <li>感覺前途一片模糊 👆</li>
+  <li>每天都在煎熬水課 😴</li>
+  <li>偶爾思考人生哲理 🤔</li>
   <li>狂想能有大廠撈我 👇</li>
 </ul>
 </details>
 
 <details><summary>👨‍💻 一名起早貪黑<u>打程式碼</u>的<strong>碼農</strong></summary>
 <ul>
-  <li>老是喜歡手搓造輪子 😄</li>
-  <li>在GitHub瘋狂造垃圾 💩</li>
-  <li>兩眼一睜就大戰程式碼 😳</li>
-  <li>除了C++啥也學不會 😭</li>
+  <li>特別喜歡手搓小玩具 😄</li>
+  <li>在GitHub瘋狂造專案 💩</li>
+  <li>兩眼一睜就是Agent 😳</li>
+  <li>這日子什麼時候是個頭啊 😭</li>
 </ul>
 </details>
 
-<details><summary>🤖 一名鼓搗<u>Agent</u>的<strong>YES工程師</strong></summary>
+<details><summary>🤖 一名鼓搗<u>Agent</u>的<strong>菜鳥工程師</strong></summary>
 <ul>
   <li>DeepSeek你怎麼這麼蠢 🤪</li>
-  <li>OpenCode又把UI搞壞了 😰</li>
-  <li>Claude又把優化給優化了 😖</li>
+  <li>不要番茄炒蛋(不加辣椒版) 😰</li>
+  <li>什麼叫你把優化給優化了 😖</li>
   <li>你寫的文件怎麼這麼醜啊！ 😡</li>
 </ul>
 </details>
@@ -123,9 +127,11 @@
 <details><summary><strong>Website Pages</strong></summary>
 
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) 個人GithubPages站點倉庫
-- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) 基於Vue3的Ollama客戶端WebUI，提供瀏覽器端的對話互動介面
+- [[Awesome-Short-Video]](https://WencueCryforme.github.io/awesome-short-video) 個人精選短片線上播放
+- [[NaiWa-Universe]](https://WencueCryforme.github.io/NaiWa-Universe) 奶蛙宇宙: 這裡有很多奶蛙
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) 原神樂器風物之詩琴模擬器
 - [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) 一個極簡、輕量的線上媒體瀏覽平台，以匿名方式幫你推廣喜愛的內容
+- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) 基於Vue3的Ollama客戶端WebUI，提供瀏覽器端的對話互動介面
 - [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) 一款個人微博客管理工具，可實現部落格的線上管理以及靜態網頁的動態生成
 
 </details>

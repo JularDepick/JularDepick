@@ -12,6 +12,8 @@
 
 <img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@JularDepick-JularDepick"/>
 
+[Here I am](https://JularDepick.github.io/) | [Another me](https://WencueCryforme.github.io/)
+
 </div>
 
 
@@ -51,36 +53,38 @@
 
 <details><summary> 📚 A <strong>hobbyist</strong> who dabbles in <u>many fields</u></summary>
 <ul>
-  <li>👉 Wants to learn everything 👈</li>
-  <li>👉 Knows a bit of everything 👈</li>
-  <li>👉 Masters nothing 👈</li>
-  <li>👉 🤡That's me🤡 👈</li>
+  <li>👉 Physics and astronomy 👈</li>
+  <li>👉 Metaphysics and Chinese classics 👈</li>
+  <li>👉 Eastern and Western philosophy 👈</li>
+  <li>👉 Web fiction 👈</li>
+  <li>👉 Film and music 👈</li>
+  <li>👉 Minecraft 👈</li>
 </ul>
 </details>
 
 <details><summary>🎓 An ordinary <u>Software Engineering</u> <strong>undergraduate</strong></summary>
 <ul>
-  <li>Feeling like the future is bleak 👆</li>
-  <li>Skipping class and sleeping every day 😴</li>
-  <li>Occasionally pondering career paths 🤔</li>
-  <li>Desperately hoping a big company will recruit me 👇</li>
+  <li>Feeling like the future is a blur 👆</li>
+  <li>Enduring filler classes every day 😴</li>
+  <li>Occasionally pondering the philosophy of life 🤔</li>
+  <li>Wildly dreaming a big company will rescue me 👇</li>
 </ul>
 </details>
 
 <details><summary>👨‍💻 A <strong>code monkey</strong> who codes from dawn to dusk <u>writing code</u></summary>
 <ul>
-  <li>Always likes to reinvent the wheel by hand 😄</li>
-  <li>Mass-producing junk on GitHub 💩</li>
-  <li>Battling code the moment eyes open 😳</li>
-  <li>Can't learn anything except C++ 😭</li>
+  <li>Really loves hand-building little gadgets 😄</li>
+  <li>Mass-producing projects on GitHub 💩</li>
+  <li>It's Agents the moment my eyes open 😳</li>
+  <li>When will this life ever end 😭</li>
 </ul>
 </details>
 
-<details><summary>🤖 A <strong>YES Engineer</strong> tinkering with <u>Agents</u></summary>
+<details><summary>🤖 A <strong>rookie engineer</strong> tinkering with <u>Agents</u></summary>
 <ul>
   <li>DeepSeek, why are you so dumb 🤪</li>
-  <li>OpenCode broke the UI again 😰</li>
-  <li>Claude optimized the optimization away 😖</li>
+  <li>No tomato scrambled eggs (no chili version) 😰</li>
+  <li>What do you mean you optimized the optimization 😖</li>
   <li>Why are your documents so ugly! 😡</li>
 </ul>
 </details>
@@ -123,9 +127,11 @@
 <details><summary><strong>Website Pages</strong></summary>
 
 - [[JularDepick.github.io]](https://github.com/JularDepick/JularDepick.github.io) Personal GithubPages site repository
-- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3-based Ollama client WebUI, providing a browser-based chat interaction interface
+- [[Awesome-Short-Video]](https://WencueCryforme.github.io/awesome-short-video) Personal curated short videos for online playback
+- [[NaiWa-Universe]](https://WencueCryforme.github.io/NaiWa-Universe) NaiWa Universe: lots of NaiWa frogs here
 - [[WindsongLyre-Simulator.fork]](https://github.com/JularDepick/WindsongLyre-Simulator.fork) Genshin Impact instrument Windsong Lyre simulator
 - [[WebMedia-MicroChannel]](https://github.com/JularDepick/WebMedia-MicroChannel) A minimalist, lightweight online media browsing platform that promotes your favorite content anonymously
+- [[Ollama-Web-UI]](https://github.com/JularDepick/Ollama-Web-UI) Vue3-based Ollama client WebUI, providing a browser-based chat interaction interface
 - [[MicroBlog-GeneralManager]](https://github.com/JularDepick/MicroBlog-GeneralManager) A personal microblog management tool enabling online blog management and dynamic generation of static web pages
 
 </details>
