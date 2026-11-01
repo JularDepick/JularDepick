@@ -152,6 +152,7 @@
 
 - Agent 엄선 스킬 모음: https://github.com/sickn33/agentic-awesome-skills
 - DSH 엄선 플러그인 모음: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
+- DSH 스킨/배경화면/테마 팩 플러그인: https://github.com/RevolutionLA/dsh-dream-skin
 
 > 자세한 기여 내용은 [커뮤니티 기여 기록](./CONTRIBUTED/CONTRIBUTED_ko-KR.md)을 참조하세요.
 

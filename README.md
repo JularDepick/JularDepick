@@ -152,6 +152,7 @@
 
 - Agent精选技能合集: https://github.com/sickn33/agentic-awesome-skills
 - DSH精选插件合集: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
+- DSH换肤/壁纸/主题包插件: https://github.com/RevolutionLA/dsh-dream-skin
 
 > 具体贡献内容详见 [社区贡献记录表](./CONTRIBUTED/CONTRIBUTED.md)
 

@@ -152,6 +152,7 @@
 
 - Коллекция избранных навыков Agent: https://github.com/sickn33/agentic-awesome-skills
 - Коллекция избранных плагинов DSH: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
+- Плагин скинов/обоев/тематических пакетов DSH: https://github.com/RevolutionLA/dsh-dream-skin
 
 > Подробности вклада см. в [таблице записей о вкладе в сообщество](./CONTRIBUTED/CONTRIBUTED_ru-RU.md).
 
