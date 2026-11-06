@@ -100,8 +100,8 @@
 - [[Agent-Video-Driver.SKILL]](https://github.com/JularDepick/Agent-Video-Driver.SKILL) Lets your Agent autonomously generate videos with a scripted toolchain without needing any video generation model
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) Monitors resource usage of DSH system processes and reports results to the user in the form of charts
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) Quantifies every DSH Agent interaction into visual performance metrics, auto-syncs to WakaTime, and shows your productivity when collaborating with Agents through data
-- [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) A universal DSH plugin development template driven by an Agent
 - [[dsh-question-timeout-protection]](https://github.com/JularDepick/dsh-question-timeout-protection) Question timeout protection plugin: once ask_user_question times out, the content entered by the user is retained in the UI or the model context
+- [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) A universal DSH plugin development template driven by an Agent
 
 </details>
 

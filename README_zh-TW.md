@@ -100,8 +100,8 @@
 - [[Agent-Video-Driver.SKILL]](https://github.com/JularDepick/Agent-Video-Driver.SKILL) 讓你的Agent用腳本化的工具鏈自主生成影片而不需要任何影片生成模型
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) 監控DSH系統程序的資源佔用,並以圖表形式向使用者報告結果
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) 將DSH的每一次Agent互動量化為視覺化表現指標,自動同步至WakaTime,用資料展示你與Agent協作的生產力
-- [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) 由Agent驅動的通用 DSH 外掛開發範本
 - [[dsh-question-timeout-protection]](https://github.com/JularDepick/dsh-question-timeout-protection) 問答超時保護外掛: 一旦 ask_user_question 超時,使用者輸入的內容將保留在UI或模型上下文中
+- [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) 由Agent驅動的通用 DSH 外掛開發範本
 
 </details>
 

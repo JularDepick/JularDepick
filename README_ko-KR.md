@@ -100,8 +100,8 @@
 - [[Agent-Video-Driver.SKILL]](https://github.com/JularDepick/Agent-Video-Driver.SKILL) 어떤 동영상 생성 모델도 없이 스크립트화된 도구 체인으로 Agent가 동영상을 자율 생성하게 합니다
 - [[dsh-system-monitor-plugin]](https://github.com/JularDepick/dsh-system-monitor-plugin) DSH 시스템 프로세스의 리소스 사용량을 모니터링하고 결과를 차트 형태로 사용자에게 보고합니다
 - [[dsh-wakatime-plugin]](https://github.com/JularDepick/dsh-wakatime-plugin) DSH의 모든 Agent 상호작용을 시각화된 성과 지표로 정량화하여 WakaTime에 자동 동기화하고, 데이터로 Agent와 협업하는 생산성을 보여줍니다
-- [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) Agent 주도의 범용 DSH 플러그인 개발 템플릿
 - [[dsh-question-timeout-protection]](https://github.com/JularDepick/dsh-question-timeout-protection) 질문 시간 초과 보호 플러그인: ask_user_question 시간이 초과되면 사용자가 입력한 내용이 UI 또는 모델 컨텍스트에 유지됩니다
+- [[dsh-plugin-dev-agent-template]](https://github.com/JularDepick/dsh-plugin-dev-agent-template) Agent 주도의 범용 DSH 플러그인 개발 템플릿
 
 </details>
 

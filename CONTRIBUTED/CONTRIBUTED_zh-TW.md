@@ -17,6 +17,8 @@
 | 2026-06-02 | [sickn33/<br>agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 新增技能收錄<br>[JularDepick/<br>user-thoughts.SKILL](https://github.com/JularDepick/user-thoughts.SKILL) | 1 |
 | 2026-10-17 | [awesome-dsh-plugin/<br>awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 新增外掛收錄<br>[JularDepick/<br>dsh-wakatime-plugin](https://github.com/JularDepick/dsh-wakatime-plugin)<br>[JularDepick/<br>dsh-system-monitor-plugin](https://github.com/JularDepick/dsh-system-monitor-plugin) | 2 |
 | 2026-10-30 | [dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) | 重構設定頁結構<br>[PR#132](https://github.com/RevolutionLA/dsh-dream-skin/pull/132) | 2 |
+| 2026-10-01 | [dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) | 路徑選擇器增強<br>[PR#133](https://github.com/RevolutionLA/dsh-dream-skin/pull/133) | 1 |
+| 2026-11-05 | [awesome-dsh-plugin/<br>awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 新增外掛收錄<br>[JularDepick/<br>dsh-question-timeout-protection](https://github.com/JularDepick/dsh-question-timeout-protection) | 1 |
 
 </div>
 
